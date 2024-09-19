@@ -3,7 +3,7 @@ const http = require("http");
 //File System
 const fs = require("fs");
 
-const PORT = process.env.PORT || 8080;
+const PORT = process.env.PORT || 3000;
 
 //Syntax to create a function
 const functionName = (parameter1, parameter2, parameter3) => {
