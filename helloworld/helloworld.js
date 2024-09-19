@@ -18,21 +18,22 @@ const server = http.createServer((request, response) => {
   if (request.url == "/") {
     //execute the statement
     response.writeHead(200, { "Content-Type": "Text/Plain" });
+    response.send("Home Page");
     response.end("Home Page");
   } else if (request.url == "/about") {
     //execute the statement
     response.writeHead(200, { "Content-Type": "Text/Plain" });
     response.end("About Page");
+  } else if (request.url == "/contact") {
+    //execute the statement
+    response.writeHead(200, { "Content-Type": "Text/Plain" });
+    response.end("Contact Page");
   } else if (request.url == "/gallery") {
     //execute the statement
     response.writeHead(200, { "Content-Type": "Text/HTML" });
     response.end(
       "<html><head><title>Page Title</title></head><body><h1>My first HTML response</h1></body></html>"
     );
-  } else if (request.url == "/contact") {
-    //execute the statement
-    response.writeHead(200, { "Content-Type": "Text/Plain" });
-    response.end("Contact Page");
   } else {
     response.writeHead(400, { "Content-Type": "Text/Plain" });
     response.end("Page not found error 400");
