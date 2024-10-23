@@ -1,0 +1,91 @@
+{
+  "title": "About Miami",
+  "abstract": "Discover the history and culture that shaped Miami into the vibrant, diverse city it is today. From its early days as a small coastal town to its rise as an international metropolis, Miami's story is as rich as its culture.",
+  "image": "/images/about/miami_history.jpg",
+  "services": [
+    {
+      "title": "Early History",
+      "intro": "Learn about the early settlers and indigenous people who first called Miami home.",
+      "list": [
+        "Tequesta Tribe: The first known inhabitants of the Miami area.",
+        "Ponce de León: Spanish explorer who first claimed Florida for Spain in the 16th century.",
+        "Julia Tuttle: The woman credited as the 'Mother of Miami,' who convinced Henry Flagler to extend the railroad here."
+      ],
+      "image": "/images/about/early_history.jpg"
+    },
+    {
+      "title": "Miami’s Growth",
+      "intro": "Explore how Miami transformed from a small town into a bustling city in the 20th century.",
+      "list": [
+        "Land Boom of the 1920s: Rapid real estate development that shaped modern Miami.",
+        "Great Hurricane of 1926: A major disaster that temporarily slowed the city’s growth.",
+        "World War II: The role Miami played as a military training base and how it helped the city's economy."
+      ],
+      "image": "/images/about/miami_growth.jpg"
+    },
+    {
+      "title": "Cultural Diversity",
+      "intro": "Miami’s diverse population and influence from Latin America and the Caribbean have shaped its unique culture.",
+      "list": [
+        "Cuban Influence: How the influx of Cuban immigrants in the 1960s reshaped Miami.",
+        "Haitian and Caribbean Communities: Other significant immigrant populations contributing to the city’s diversity.",
+        "Latin American Cultural Center: Miami as a hub for Latin American arts, business, and culture."
+      ],
+      "image": "/images/about/cultural_diversity.jpg"
+    },
+    {
+      "title": "Modern Miami",
+      "intro": "From a travel destination to a global city, Miami continues to grow and evolve.",
+      "list": [
+        "Art Basel: Miami's rise as an international center for contemporary art.",
+        "Tech Hub: The growth of Miami as a hotspot for startups and technology companies.",
+        "Downtown Revitalization: The ongoing transformation of Miami's urban core."
+      ],
+      "image": "/images/about/modern_miami.jpg"
+    }
+  ],
+  "packages": [
+    {
+      "title": "Historical Walking Tour",
+      "description": "Take a guided tour through Miami's historic neighborhoods and learn about the city's fascinating past.",
+      "image": "/images/about/packages/history_tour.jpg",
+      "price": "40",
+      "duration": "2 Hours"
+    },
+    {
+      "title": "Cuban Culture Tour",
+      "description": "Immerse yourself in the Cuban culture that defines much of Miami, with stops in Little Havana for food, music, and history.",
+      "image": "/images/about/packages/cuban_culture_tour.jpg",
+      "price": "50",
+      "duration": "3 Hours"
+    },
+    {
+      "title": "Art Deco District Tour",
+      "description": "Explore Miami Beach's famous Art Deco architecture with a knowledgeable guide.",
+      "image": "/images/about/packages/art_deco_tour.jpg",
+      "price": "35",
+      "duration": "1 Hour 30 Minutes"
+    },
+    {
+      "title": "Museum Pass",
+      "description": "Gain access to multiple Miami museums, including the Perez Art Museum and the HistoryMiami Museum.",
+      "image": "/images/about/packages/museum_pass.jpg",
+      "price": "60",
+      "duration": "All Day"
+    },
+    {
+      "title": "Downtown Miami Skyline Cruise",
+      "description": "Enjoy stunning views of downtown Miami from Biscayne Bay with a guided cruise.",
+      "image": "/images/about/packages/skyline_cruise.jpg",
+      "price": "45",
+      "duration": "1 Hour 30 Minutes"
+    },
+    {
+      "title": "Miami Architecture Tour",
+      "description": "Discover Miami's iconic buildings and modern architecture with a private guided tour.",
+      "image": "/images/about/packages/architecture_tour.jpg",
+      "price": "75",
+      "duration": "3 Hours"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+<div class="gallery">
+  {{#each images}}
+    <div class="gallery-item">
+      <img src="{{this.url}}" alt="{{this.title}}" class="img-fluid" />
+      <h3>{{this.title}}</h3>
+    </div>
+  {{/each}}
+</div>

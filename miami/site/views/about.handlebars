@@ -1,1 +1,9 @@
-<h1>About Miami</h1>
+{{>heading}}
+{{!-- Add the services partial --}}
+{{#if data.services}}
+   {{>services}}
+{{/if}}
+
+{{#if data.packages}}
+  {{> packages}}
+{{/if}}

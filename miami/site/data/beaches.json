@@ -1,0 +1,93 @@
+{
+  "title": "Miami Beaches",
+  "abstract": "Miami is home to some of the most beautiful beaches in the world. From the lively shores of South Beach to the serene Key Biscayne, there’s a perfect spot for everyone to enjoy the sun, sand, and surf.",
+  "image": "/images/miamibeach.jpg",
+
+  "services": [
+    {
+      "title": "South Beach",
+      "intro": "The iconic South Beach is known for its vibrant atmosphere, crystal clear waters, and Art Deco buildings lining Ocean Drive.",
+      "list": [
+        "Lummus Park: A beachfront park perfect for picnics, volleyball, and outdoor workouts.",
+        "Ocean Drive: Famous for its nightlife and historic Art Deco architecture.",
+        "South Pointe Park: A peaceful spot at the southern tip of South Beach with great views and a fishing pier."
+      ],
+      "image": "/images/beaches/south_beach.jpg"
+    },
+    {
+      "title": "Key Biscayne",
+      "intro": "Escape the crowds and head to the quiet shores of Key Biscayne, perfect for family outings and watersports.",
+      "list": [
+        "Crandon Park Beach: A family-friendly beach with calm waters, picnic areas, and a golf course.",
+        "Bill Baggs Cape Florida State Park: Explore the historic Cape Florida Lighthouse and enjoy unspoiled beaches.",
+        "Virginia Key Beach Park: Known for its eco-adventures, including kayaking, paddleboarding, and biking trails."
+      ],
+      "image": "/images/beaches/key_biscayne.jpg"
+    },
+    {
+      "title": "Surfside Beach",
+      "intro": "A hidden gem just north of Miami Beach, Surfside offers a more laid-back beach experience, perfect for relaxation.",
+      "list": [
+        "Surfside Community Center: Access to the beach, pool, and a variety of activities for the family.",
+        "Harding Avenue: A strip of restaurants and shops that provide a quieter, local atmosphere.",
+        "Bal Harbour Shops: Luxury shopping just steps away from the beach."
+      ],
+      "image": "/images/beaches/surfside_beach.jpg"
+    },
+    {
+      "title": "Haulover Beach",
+      "intro": "One of the most diverse beaches in Miami, Haulover Beach is famous for its clothing-optional section and wide range of activities.",
+      "list": [
+        "Haulover Park: Offers picnic areas, a marina, and off-leash dog beach sections.",
+        "Clothing-Optional Section: Popular among visitors looking for a free-spirited beach day.",
+        "Kite Flying Area: A designated spot for kite flying and windsurfing enthusiasts."
+      ],
+      "image": "/images/beaches/haulover_beach.jpg"
+    }
+  ],
+
+  "packages": [
+    {
+      "title": "Sunset Beach Picnic",
+      "description": "Enjoy a beautifully prepared sunset picnic at South Beach with curated local delicacies and drinks.",
+      "image": "/images/beaches/packages/sunset_picnic.jpg",
+      "price": "80",
+      "duration": "2 Hours"
+    },
+    {
+      "title": "Kayaking Tour of Biscayne Bay",
+      "description": "Paddle through the crystal-clear waters of Biscayne Bay, exploring mangroves and spotting marine wildlife.",
+      "image": "/images/beaches/packages/kayaking_tour.jpg",
+      "price": "50",
+      "duration": "2 Hours"
+    },
+    {
+      "title": "Private Yacht Beach Day",
+      "description": "Sail along Miami’s coastline and enjoy a day at a secluded beach with a private yacht and full catering service.",
+      "image": "/images/beaches/packages/yacht_beach_day.jpg",
+      "price": "700",
+      "duration": "6 Hours"
+    },
+    {
+      "title": "Surfing Lessons at Surfside",
+      "description": "Learn to surf with expert instructors at Surfside Beach. Perfect for beginners and intermediate surfers.",
+      "image": "/images/beaches/packages/surfing_lessons.jpg",
+      "price": "100",
+      "duration": "3 Hours"
+    },
+    {
+      "title": "Snorkeling at Crandon Park",
+      "description": "Explore the underwater world of Biscayne Bay with a guided snorkeling tour, perfect for all skill levels.",
+      "image": "/images/beaches/packages/snorkeling_crandon.jpg",
+      "price": "75",
+      "duration": "1 Hour 30 Minutes"
+    },
+    {
+      "title": "Beach Yoga at Sunrise",
+      "description": "Start your day with a rejuvenating yoga session on the shores of Key Biscayne as the sun rises over the ocean.",
+      "image": "/images/beaches/packages/beach_yoga.jpg",
+      "price": "40",
+      "duration": "1 Hour"
+    }
+  ]
+}

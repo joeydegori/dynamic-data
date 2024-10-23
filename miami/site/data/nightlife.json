@@ -1,0 +1,93 @@
+{
+  "title": "Miami Nightlife",
+  "abstract": "Miami's nightlife is legendary, offering everything from rooftop bars to world-renowned nightclubs. Discover the best places to party, sip cocktails, and dance the night away in the Magic City.",
+  "image": "/images/miaminight.jpg",
+
+  "services": [
+    {
+      "title": "Top Nightclubs",
+      "intro": "Experience the vibrant energy of Miami's top nightclubs, known for their star-studded events and world-class DJs.",
+      "list": [
+        "LIV: Located in the Fontainebleau Hotel, LIV is one of Miami's most famous clubs, attracting celebrities and elite partygoers.",
+        "E11EVEN: A 24-hour nightclub with live performances, DJs, and a unique cabaret experience.",
+        "Story Nightclub: Known for its massive dance floor and stunning light displays, Story is a favorite for EDM lovers."
+      ],
+      "image": "/images/nightlife/top_clubs.jpg"
+    },
+    {
+      "title": "Rooftop Bars",
+      "intro": "Enjoy breathtaking views of the Miami skyline while sipping on craft cocktails at these trendy rooftop bars.",
+      "list": [
+        "Sugar at EAST Miami: A lush rooftop bar with panoramic views and an Asian-inspired menu.",
+        "Juvia: A stylish rooftop restaurant offering French, Japanese, and Peruvian fusion cuisine.",
+        "Area 31: Overlooking Biscayne Bay, Area 31 offers a relaxed vibe with a great happy hour."
+      ],
+      "image": "/images/nightlife/rooftop_bars.jpg"
+    },
+    {
+      "title": "Beachfront Parties",
+      "intro": "Feel the ocean breeze and party right on the sand at Miami's hottest beachfront venues.",
+      "list": [
+        "Nikki Beach: Known for its daytime beach parties and glamorous atmosphere, Nikki Beach is a Miami staple.",
+        "The Broken Shaker: A laid-back spot known for its handcrafted cocktails and garden ambiance.",
+        "Baia Beach Club: Offering Mediterranean vibes and oceanfront views, this venue is perfect for a relaxed night out."
+      ],
+      "image": "/images/nightlife/beachfront_parties.jpg"
+    },
+    {
+      "title": "Speakeasies",
+      "intro": "Step back in time and discover Miami's hidden speakeasies, known for their creative cocktails and intimate settings.",
+      "list": [
+        "The Bar at the Betsy: A cozy speakeasy tucked away in the Betsy Hotel with craft cocktails and live jazz.",
+        "The ScapeGoat: This hidden gem in South Beach offers a unique cocktail experience with a relaxed vibe.",
+        "Swizzle Rum Bar: A classic speakeasy offering a wide range of rum-based drinks in a tropical setting."
+      ],
+      "image": "/images/nightlife/speakeasies.jpg"
+    }
+  ],
+
+  "packages": [
+    {
+      "title": "VIP Club Experience",
+      "description": "Skip the lines and enjoy VIP access to Miami's top nightclubs with this exclusive package. Includes complimentary drinks and a personal host for the night.",
+      "image": "/images/nightlife/packages/vip_club.jpg",
+      "price": "250",
+      "duration": "5 Hours"
+    },
+    {
+      "title": "Miami Rooftop Bar Crawl",
+      "description": "Hop between Miami's best rooftop bars and enjoy exclusive drink specials with this guided tour.",
+      "image": "/images/nightlife/packages/rooftop_bar_crawl.jpg",
+      "price": "100",
+      "duration": "4 Hours"
+    },
+    {
+      "title": "Beach Party Pass",
+      "description": "Get access to the hottest beachfront parties in Miami with this all-inclusive pass. Includes entry to multiple venues and complimentary drinks.",
+      "image": "/images/nightlife/packages/beach_party.jpg",
+      "price": "150",
+      "duration": "6 Hours"
+    },
+    {
+      "title": "Speakeasy Tour",
+      "description": "Discover the hidden side of Miami's nightlife with a guided tour of the city's best speakeasies. Includes craft cocktails at each stop.",
+      "image": "/images/nightlife/packages/speakeasy_tour.jpg",
+      "price": "120",
+      "duration": "3 Hours"
+    },
+    {
+      "title": "Private Yacht Party",
+      "description": "Take your Miami nightlife experience to the next level with a private yacht party. Includes an open bar, DJ, and views of the Miami skyline.",
+      "image": "/images/nightlife/packages/yacht_party.jpg",
+      "price": "500",
+      "duration": "6 Hours"
+    },
+    {
+      "title": "Art Deco Nightlife Tour",
+      "description": "Explore the historic Art Deco District while enjoying Miami's vibrant nightlife. Includes a guided walking tour and VIP entry to a club.",
+      "image": "/images/nightlife/packages/art_deco_night.jpg",
+      "price": "80",
+      "duration": "3 Hours"
+    }
+  ]
+}

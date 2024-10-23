@@ -1,0 +1,91 @@
+{
+  "title": "Explore Miami",
+  "abstract": "Discover the vibrant culture, stunning beaches, and thrilling activities that Miami has to offer. From the nightlife to the art districts, there's something for everyone in this iconic city. Enjoy a blend of urban charm and natural beauty as you explore Miami's top attractions.",
+  "image": "/images/miamisky.jpg",
+  "services": [
+    {
+      "title": "Luxury Stays",
+      "intro": "Experience Miami's finest accommodations, from five-star resorts to boutique hotels.",
+      "list": [
+        "The Ritz-Carlton Key Biscayne: An oceanfront luxury resort offering a secluded island experience.",
+        "W South Beach: A modern, chic hotel with beachfront access and world-class dining.",
+        "The Palms Hotel & Spa: Eco-friendly beach resort surrounded by tropical gardens."
+      ],
+      "image": "/images/homepage/luxury_stays.jpg"
+    },
+    {
+      "title": "Outdoor Adventures",
+      "intro": "Explore Miami's natural beauty with a variety of outdoor activities and tours.",
+      "list": [
+        "Everglades National Park: Airboat tours through the wetlands to spot wildlife.",
+        "Paddleboarding in Biscayne Bay: A serene way to experience Miami's waters.",
+        "Jungle Island: Interactive experiences with exotic animals and thrilling shows."
+      ],
+      "image": "/images/homepage/outdoor_adventures.jpg"
+    },
+    {
+      "title": "Food & Cuisine",
+      "intro": "Indulge in the diverse flavors of Miami, where Latin American cuisine meets global influences.",
+      "list": [
+        "Coyo Taco: Fresh, authentic Mexican street food in a lively setting.",
+        "La Mar by Gastón Acurio: Peruvian dishes with stunning views of Biscayne Bay.",
+        "The Salty Donut: Miami's favorite artisanal donut shop."
+      ],
+      "image": "/images/homepage/food_cuisine.jpg"
+    },
+    {
+      "title": "Art & Culture",
+      "intro": "Immerse yourself in Miami's art and cultural scene, from museums to street murals.",
+      "list": [
+        "Wynwood Walls: An outdoor museum showcasing colorful street art by global artists.",
+        "Perez Art Museum Miami: Contemporary art exhibitions and beautiful waterfront views.",
+        "The Bass: A contemporary art museum housed in an Art Deco building."
+      ],
+      "image": "/images/homepage/art_culture.jpg"
+    }
+  ],
+  "packages": [
+    {
+      "title": "Miami Art Deco Walking Tour",
+      "description": "Step back in time with a guided tour of Miami's famous Art Deco District in South Beach. Learn about the architectural history and cultural significance of this iconic neighborhood.",
+      "image": "/images/homepage/packages/art_deco_tour.jpg",
+      "price": "45",
+      "duration": "2 Hours"
+    },
+    {
+      "title": "Little Havana Cultural Experience",
+      "description": "Dive into the rich Cuban heritage of Miami with a cultural tour of Little Havana. Visit iconic landmarks, sample traditional Cuban food, and enjoy live music and dancing.",
+      "image": "/images/homepage/packages/little_havana.jpg",
+      "price": "60",
+      "duration": "3 Hours"
+    },
+    {
+      "title": "South Beach Nightlife Tour",
+      "description": "Experience the vibrant nightlife of South Beach with VIP access to some of the hottest clubs and bars. Enjoy complimentary drinks and skip-the-line entry with this exclusive package.",
+      "image": "/images/homepage/packages/south_beach_nightlife.jpg",
+      "price": "120",
+      "duration": "5 Hours"
+    },
+    {
+      "title": "Sunset Cruise on Biscayne Bay",
+      "description": "Sail along Biscayne Bay at sunset for breathtaking views of the Miami skyline and surrounding islands. This relaxing cruise offers a perfect way to unwind and capture beautiful photos.",
+      "image": "/images/homepage/packages/sunset_cruise.jpg",
+      "price": "55",
+      "duration": "1 Hour 30 Minutes"
+    },
+    {
+      "title": "Key Biscayne Eco Adventure",
+      "description": "Escape to Key Biscayne for a day of kayaking, snorkeling, and exploring the natural beauty of Miami's coastal ecosystems. Led by expert guides, this tour offers a perfect blend of relaxation and adventure.",
+      "image": "/images/homepage/packages/key_biscayne.jpg",
+      "price": "85",
+      "duration": "4 Hours"
+    },
+    {
+      "title": "Deep Sea Fishing Charter",
+      "description": "Join an expert crew for a deep sea fishing adventure off the coast of Miami. Whether you're a seasoned angler or a beginner, this package offers an exciting day on the water.",
+      "image": "/images/homepage/packages/deep_sea_fishing.jpg",
+      "price": "150",
+      "duration": "6 Hours"
+    }
+  ]
+}

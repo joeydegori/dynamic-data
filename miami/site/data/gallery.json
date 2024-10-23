@@ -1,0 +1,68 @@
+{
+  "images": [
+    {
+      "url": "/images/gallery/beach-2.jpg",
+      "title": "Beach-2"
+    },
+    {
+      "url": "/images/gallery/beach-3.jpg",
+      "title": "beach-3"
+    },
+    {
+      "url": "/images/gallery/beach-shore.jpg",
+      "title": "beach-shore"
+    },
+    {
+      "url": "/images/gallery/beach.jpg",
+      "title": "beach"
+    },
+    {
+      "url": "/images/gallery/bridge.jpg",
+      "title": "bridge"
+    },
+    {
+      "url": "/images/gallery/buildings-2.jpg",
+      "title": "buildings-2"
+    },
+    {
+      "url": "/images/gallery/buildings.jpg",
+      "title": "buildings"
+    },
+    {
+      "url": "/images/gallery/car.jpg",
+      "title": "car"
+    },
+    {
+      "url": "/images/gallery/cinema.jpg",
+      "title": "cinema"
+    },
+    {
+      "url": "/images/gallery/hotel.jpg",
+      "title": "hotel"
+    },
+    {
+      "url": "/images/gallery/lifeguard-2.jpg",
+      "title": "lifeguard-2"
+    },
+    {
+      "url": "/images/gallery/lifeguard-3.jpg",
+      "title": "lifeguard-3"
+    },
+    {
+      "url": "/images/gallery/lifeguard-4.jpg",
+      "title": "lifeguard-4"
+    },
+    {
+      "url": "/images/gallery/lifeguard.jpg",
+      "title": "lifeguard"
+    },
+    {
+      "url": "/images/gallery/night.jpg",
+      "title": "night"
+    },
+    {
+      "url": "/images/gallery/shoreline.jpg",
+      "title": "shoreline"
+    }
+  ]
+}

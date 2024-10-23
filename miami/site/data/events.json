@@ -1,0 +1,93 @@
+{
+  "title": "Miami Events",
+  "abstract": "Miami is home to a vibrant events scene, from art festivals to international music concerts. Whether you're looking for cultural experiences or the hottest parties, Miami has something for everyone.",
+  "image": "/images/miamievents.jpg",
+
+  "services": [
+    {
+      "title": "Miami Music Week",
+      "intro": "One of the biggest music events in the world, Miami Music Week attracts top DJs and fans from across the globe.",
+      "list": [
+        "Ultra Music Festival: The highlight of Miami Music Week, held in Bayfront Park with the biggest names in electronic music.",
+        "Pool Parties: Exclusive pool parties hosted at the most luxurious hotels across Miami Beach.",
+        "Nightclub Shows: Special performances by world-renowned DJs at LIV, Story, and other top clubs."
+      ],
+      "image": "/images/events/miami_music_week.jpg"
+    },
+    {
+      "title": "Art Basel Miami",
+      "intro": "The premier international art show of the Americas, Art Basel Miami brings together the best of contemporary art.",
+      "list": [
+        "Wynwood Art District: Street murals and galleries showcasing contemporary and urban art.",
+        "Miami Beach Convention Center: The main venue for Art Basel, hosting hundreds of galleries and installations.",
+        "VIP Art Tours: Exclusive guided tours of private collections and museum exhibitions."
+      ],
+      "image": "/images/events/art_basel.jpg"
+    },
+    {
+      "title": "Calle Ocho Festival",
+      "intro": "A celebration of Miami’s Latin heritage, Calle Ocho is the largest street festival in the Southeast United States.",
+      "list": [
+        "Live Music: Performances by top Latin artists across multiple stages.",
+        "Street Food: Sample authentic Cuban, Puerto Rican, and Dominican dishes from local vendors.",
+        "Parades: Colorful processions celebrating Latin American culture and history."
+      ],
+      "image": "/images/events/calle_ocho.jpg"
+    },
+    {
+      "title": "South Beach Wine & Food Festival",
+      "intro": "A culinary extravaganza featuring top chefs, winemakers, and food personalities.",
+      "list": [
+        "Grand Tasting Village: Sample dishes and wines from the world's best chefs and winemakers.",
+        "Beachside BBQ: A casual outdoor event with live music, BBQ, and craft beers.",
+        "Celebrity Chef Dinners: Exclusive dining experiences hosted by Food Network stars."
+      ],
+      "image": "/images/events/food_wine_festival.jpg"
+    }
+  ],
+
+  "packages": [
+    {
+      "title": "VIP Ultra Music Experience",
+      "description": "Enjoy front-row access and exclusive VIP treatment at Ultra Music Festival, with complimentary drinks and private lounge access.",
+      "image": "/images/events/packages/vip_ultra.jpg",
+      "price": "500",
+      "duration": "3 Days"
+    },
+    {
+      "title": "Private Art Basel Tour",
+      "description": "Explore Art Basel with a private guide, providing access to exclusive events and private collections.",
+      "image": "/images/events/packages/art_basel_vip.jpg",
+      "price": "400",
+      "duration": "1 Day"
+    },
+    {
+      "title": "Calle Ocho VIP Package",
+      "description": "Experience the Calle Ocho Festival in style with VIP passes, access to the best performances, and private seating.",
+      "image": "/images/events/packages/calle_ocho_vip.jpg",
+      "price": "200",
+      "duration": "1 Day"
+    },
+    {
+      "title": "Wine & Food Festival Tasting Pass",
+      "description": "Enjoy unlimited tastings at the South Beach Wine & Food Festival's Grand Tasting Village, with access to exclusive events.",
+      "image": "/images/events/packages/wine_food_tasting.jpg",
+      "price": "300",
+      "duration": "2 Days"
+    },
+    {
+      "title": "Miami Carnival Parade VIP",
+      "description": "Get the best seats for the Miami Carnival Parade with this VIP package, including premium viewing areas and refreshments.",
+      "image": "/images/events/packages/carnival_parade_vip.jpg",
+      "price": "180",
+      "duration": "5 Hours"
+    },
+    {
+      "title": "Cultural Tour & Festival Experience",
+      "description": "Explore Miami’s rich cultural history with a guided tour followed by access to a local festival, including street performances and food stalls.",
+      "image": "/images/events/packages/cultural_festival.jpg",
+      "price": "100",
+      "duration": "1 Day"
+    }
+  ]
+}
