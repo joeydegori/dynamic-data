@@ -31,7 +31,7 @@ app.get("/", (request, response) => {
 });
 app.get("/about", (request, response) => {
   const data = require("./data/about.json");
-  response.render("about", {
+  response.render("landing", {
     gallery,
     data,
     title: "About Miami",
@@ -42,16 +42,30 @@ app.get("/about", (request, response) => {
 });
 app.get("/nightlife", (request, response) => {
   const data = require("./data/nightlife.json");
-  response.render("nightlife", {
+  response.render("landing", {
     gallery,
     data,
-    title: "Miami at Night",
+    title: "Miami at Night!",
     abstract: "Stay away from South Beach",
   });
 });
 app.get("/beaches", (request, response) => {
-  response.type("text/plain");
-  response.send("Miami beach and more!");
+  const data = require("./data/beaches.json");
+  response.render("landing", {
+    gallery,
+    data,
+    title: "Best Beaches in Miami!",
+    abstract: "Miami has the best beaches to offer.",
+  });
+});
+app.get("/events", (request, response) => {
+  const data = require("./data/events.json");
+  response.render("landing", {
+    gallery,
+    data,
+    title: "Best Events in Miami!",
+    abstract: "Miami has the best events to offer.",
+  });
 });
 
 //Error

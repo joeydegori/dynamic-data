@@ -1,6 +1,15 @@
 {{! This #if is a helper to evaluate if the variable or expression exists }}
-{{#if data.image}}
-  <img class="hero img-fluid" src="{{data.image}}" alt="" />
+{{!-- {{#if data.image}}
+  <img class="hero img-fluid" src="{{data.image}}" alt="Miami Sky" />
 {{/if}}
 <h1 class="primary-heading">{{data.title}}</h1>
-<p class="abstract">{{data.abstract}}</p>
+<p class="abstract">{{data.abstract}}</p> --}}
+
+<div class="page-header {{#unless data.image}}no-image{{/unless}}">
+  {{#if data.image}}
+    <img class="hero img-fluid" src="{{data.image}}" alt="Miami Sky" />
+  {{/if}}
+
+  <h1 class="primary-heading">{{data.title}}</h1>
+  <p class="abstract">{{data.abstract}}</p>
+</div>
