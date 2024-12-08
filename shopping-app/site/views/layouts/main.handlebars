@@ -1,0 +1,50 @@
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>{{title}}</title>
+    <link rel="stylesheet" href="/css/bootstrap.css" />
+    <link rel="stylesheet" href="/css/site.css" />
+    <link rel="stylesheet" href="/owl/assets/owl.carousel.min.css">
+   	<link rel="stylesheet" href="/owl/assets/owl.theme.default.min.css">
+  </head>
+  <body>
+    {{! Begin Navigation }}
+    {{> nav}}
+    {{! End Navigation }}
+    {{! Default placeholder for handlebars }}
+{{!-- 
+    //turn the first image into a slideshow
+    //update the galery so when you click on the image it becomes large 
+    //that's a bootstrap modal component. then launch live demo of modal 
+    //will be updated on the slides  --}}
+
+    <div class="container">
+      {{{body}}}
+      {{!-- {{>gallery}} --}}
+    </div>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js" integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>
+    <script src="/js/bootstrap.bundle.js"></script>
+    <script src="/owl/owl.carousel.min.js"></script>
+    <script>
+      $ (function() {
+        $('.owl-packages').owlCarousel({
+          loop:true,
+          margin:10,
+          nav:true,
+          responsive:{
+          0:{
+            items:1
+          },
+          600:{
+            items:2
+          },
+          1000:{
+            items:3
+        }
+      }
+    })
+      }); 
+    </script>
+  </body>
+</html>

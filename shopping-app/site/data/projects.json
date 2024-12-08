@@ -1,0 +1,190 @@
+{
+  "projects": [
+    {
+      "name": "Concrete Canvas",
+      "bannerImage": "projects/concrete/banner.jpg",
+      "items": [
+        {
+          "title": "Concrete Stairs",
+          "image": "projects/concrete/stairs1.jpg",
+          "price": "$100",
+          "link": "/details/concrete-stairs"
+        },
+        {
+          "title": "The Walls",
+          "image": "projects/concrete/sit1.jpg",
+          "price": "$100",
+          "link": "/details/the-walls"
+        },
+        {
+          "title": "Urban Reflection",
+          "image": "projects/concrete/reflection1.jpg",
+          "price": "$100",
+          "link": "/details/urban-reflection"
+        },
+        {
+          "title": "Lost in Thought",
+          "image": "projects/concrete/thought1.jpg",
+          "price": "$100",
+          "link": "/details/thought"
+        },
+        {
+          "title": "Passing By",
+          "image": "projects/concrete/passing1.jpg",
+          "price": "$100",
+          "link": "/details/passing-by"
+        },
+        {
+          "title": "Silent Steps",
+          "image": "projects/concrete/silent.jpg",
+          "price": "$100",
+          "link": "/details/silent-steps"
+        },
+        {
+          "title": "Caught in the Moment",
+          "image": "projects/concrete/caught.jpg",
+          "price": "$100",
+          "link": "/details/caught-in-the-moment"
+        },
+        {
+          "title": "Observer",
+          "image": "projects/concrete/zebra.jpg",
+          "price": "$100",
+          "link": "/details/observer"
+        },
+        {
+          "title": "City Stroll",
+          "image": "projects/concrete/zebra2.jpg",
+          "price": "$100",
+          "link": "/details/city-stroll"
+        },
+        {
+          "title": "Wanderer",
+          "image": "projects/concrete/wanderer.jpg",
+          "price": "$100",
+          "link": "/details/wanderer"
+        },
+        {
+          "title": "City Feel",
+          "image": "projects/concrete/street.jpg",
+          "price": "$100",
+          "link": "/details/city-feel"
+        },
+        {
+          "title": "Monochrome Angles",
+          "image": "projects/concrete/angles.jpg",
+          "price": "$150",
+          "link": "/details/monochrome-angles"
+        }
+      ]
+    },
+    {
+      "name": "Moments of Mirth",
+      "bannerImage": "projects/moments/banner.jpg",
+      "items": [
+        {
+          "title": "City Shadows",
+          "image": "projects/moments/image1.jpg",
+          "price": "$100",
+          "link": "/details/city-shadows"
+        },
+        {
+          "title": "Sunlit Moments",
+          "image": "projects/moments/image2.jpg",
+          "price": "$100",
+          "link": "/details/sunlit-moments"
+        },
+        {
+          "title": "Golden Hour Glow",
+          "image": "projects/moments/image3.jpg",
+          "price": "$100",
+          "link": "/details/golden-hour-glow"
+        },
+        {
+          "title": "Urban Laughter",
+          "image": "projects/moments/image4.jpg",
+          "price": "$100",
+          "link": "/details/urban-laughter"
+        },
+        {
+          "title": "Shared Silence",
+          "image": "projects/moments/image5.jpg",
+          "price": "$100",
+          "link": "/details/shared-silence"
+        },
+        {
+          "title": "Sunset Reflections",
+          "image": "projects/moments/image6.jpg",
+          "price": "$100",
+          "link": "/details/sunset-reflections"
+        },
+        {
+          "title": "Carefree Connections",
+          "image": "projects/moments/image7.jpg",
+          "price": "$100",
+          "link": "/details/carefree-connections"
+        },
+        {
+          "title": "Evening Embrace",
+          "image": "projects/moments/image8.jpg",
+          "price": "$100",
+          "link": "/details/evening-embrace"
+        },
+        {
+          "title": "Vibrant Walls",
+          "image": "projects/moments/image9.jpg",
+          "price": "$100",
+          "link": "/details/vibrant-walls"
+        },
+        {
+          "title": "Playful Encounters",
+          "image": "projects/moments/image10.jpg",
+          "price": "$100",
+          "link": "/details/playful-encounters"
+        },
+        {
+          "title": "Light Through Chains",
+          "image": "projects/moments/image11.jpg",
+          "price": "$100",
+          "link": "/details/light-through-chains"
+        },
+        {
+          "title": "Skyward Glow",
+          "image": "projects/moments/image12.jpg",
+          "price": "$100",
+          "link": "/details/skyward-glow"
+        }
+      ]
+    },
+    {
+      "name": "Luminous",
+      "bannerImage": "projects/luminous/banner.jpg",
+      "items": [
+        {
+          "title": "Moody Street",
+          "image": "projects/luminous/street1.jpg",
+          "price": "$180",
+          "link": "/details/moody-street"
+        }
+      ]
+    },
+    {
+      "name": "Italian Summer",
+      "bannerImage": "projects/italy/banner.jpg",
+      "items": [
+        {
+          "title": "Tuscan Villa",
+          "image": "projects/italy/villa1.jpg",
+          "price": "$200",
+          "link": "/details/tuscan-villa"
+        },
+        {
+          "title": "Sunny Fields",
+          "image": "projects/italy/fields1.jpg",
+          "price": "$220",
+          "link": "/details/sunny-fields"
+        }
+      ]
+    }
+  ]
+}

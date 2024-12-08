@@ -1,0 +1,54 @@
+{
+  "images": [
+    { "url": "slide1.jpg", "title": "Slide 1" },
+    { "url": "slide2.jpg", "title": "Slide 2" },
+    { "url": "slide3.jpg", "title": "Slide 3" }
+  ],
+  "featuredProjects": [
+    {
+      "id": 1,
+      "title": "Concrete Canvas",
+      "image": "concrete/stairs1.JPG",
+      "description": "Capturing intimate, spontaneous shots.",
+      "link": "/projects/concrete"
+    },
+    {
+      "id": 2,
+      "title": "Luminous",
+      "image": "luminous/brooke1.JPG",
+      "description": "A bold and moody urban photoshoot.",
+      "link": "/projects/luminous"
+    },
+    {
+      "id": 3,
+      "title": "Italian Summer",
+      "image": "italy/yellow1.JPG",
+      "description": "An ethereal series with moody lighting.",
+      "link": "/projects/italian"
+    },
+    {
+      "id": 4,
+      "title": "Moments of Mirth",
+      "image": "moments/dreamy.JPG",
+      "description": "An ethereal series with moody lighting.",
+      "link": "/projects/moments"
+    }
+  ],
+  "featuredCategories": [
+    {
+      "name": "Portraits",
+      "image": "portraits/portrait1.jpg",
+      "link": "/category/portraits"
+    },
+    {
+      "name": "Nature",
+      "image": "nature/tree1.jpg",
+      "link": "/category/nature"
+    },
+    {
+      "name": "Urban Life",
+      "image": "urban/life1.jpg",
+      "link": "/category/urban"
+    }
+  ]
+}

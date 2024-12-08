@@ -1,0 +1,97 @@
+.green-bg {
+  background-color: #2c7658;
+}
+.navbar {
+  background-color: #2c7658;
+}
+.navbar .nav-link {
+  color: #ffecd2;
+}
+.navbar .navbar-brand {
+  color: #ffecd2;
+}
+.navbar .nav-link active {
+  color: #ffecd2;
+}
+.navbar .nav-link:hover {
+  color: #e59db2;
+}
+.hero {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  padding: 10px;
+  background-color: #ffecd2;
+  border-radius: 8px;
+}
+body {
+  font-family: "Helvetica", sans-serif;
+  background-color: #acd0c1; /* Light greenish background */
+  background-image: url("/images/background_texture.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  margin: 0;
+  padding: 0;
+}
+.placeholder {
+  display: none;
+}
+img[alt=""] {
+  display: none;
+}
+.primary-heading {
+  color: #135b3e;
+  font-weight: bold;
+}
+.accordion-button {
+  background-color: #77ad97;
+  color: #fff;
+}
+.accordion-button.collapsed {
+  background-color: #2c7658;
+  color: #fff;
+}
+.accordion-body {
+  background-color: #f0c6d2;
+  color: #781934;
+}
+h1,
+h2,
+h3 {
+  font-family: "Georgia", serif;
+}
+.page-header.no-image {
+  padding-top: 10px;
+}
+#portfolioSlideshow {
+  padding-top: 20px;
+  max-width: 900px;
+  margin: 0 auto;
+}
+#portfolioSlideshow img {
+  max-height: 400px;
+  object-fit: cover;
+}
+#featuredProjects {
+  margin-top: 2rem;
+}
+.carousel {
+  border-radius: 15px;
+  overflow: hidden;
+}
+.carousel img {
+  border-radius: 15px;
+}
+#featuredCategories {
+  margin-top: 2rem;
+}
+#featuredCategories .card {
+  margin-bottom: 1.5rem;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+  border-radius: 15px;
+}
+#featuredCategories .card-img-top {
+  border-radius: 15px;
+  object-fit: cover;
+  height: 400px;
+}

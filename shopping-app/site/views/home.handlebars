@@ -1,0 +1,44 @@
+<div id="portfolioSlideshow" class="carousel slide" data-bs-ride="carousel">
+  <div class="carousel-inner">
+    {{#each data.images}}
+      <div class="carousel-item {{#if @first}}active{{/if}}">
+        <img src="/images/slideshow/{{this.url}}" class="d-block w-100" alt="Image">
+      </div>
+    {{/each}}
+  </div>
+  <button class="carousel-control-prev" type="button" data-bs-target="#portfolioSlideshow" data-bs-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Previous</span>
+  </button>
+  <button class="carousel-control-next" type="button" data-bs-target="#portfolioSlideshow" data-bs-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Next</span>
+  </button>
+</div>
+<div id="featuredProjects" class="row">
+  {{#each data.featuredProjects}}
+    <div class="col-md-3">
+      <div class="card">
+        <img src="/images/projects/{{this.image}}" class="card-img-top" alt="{{this.title}}">
+        <div class="card-body">
+          <h5 class="card-title">{{this.title}}</h5>
+          <p class="card-text">{{this.description}}</p>
+          <a href="{{this.link}}" class="btn btn-primary">View Project</a>
+        </div>
+      </div>
+    </div>
+  {{/each}}
+</div>
+<div id="featuredCategories" class="row">
+  {{#each data.featuredCategories}}
+    <div class="col-md-4">
+      <div class="card">
+        <img src="/images/category/{{this.image}}" class="card-img-top" alt="{{this.name}}">
+        <div class="card-body">
+          <h5 class="card-title">{{this.name}}</h5>
+          <a href="{{this.link}}" class="btn btn-primary">View {{this.name}}</a>
+        </div>
+      </div>
+    </div>
+  {{/each}}
+</div>
