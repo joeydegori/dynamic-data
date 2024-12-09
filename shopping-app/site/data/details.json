@@ -1,0 +1,2068 @@
+{
+  "items": [
+    {
+      "id": "concrete-stairs",
+      "name": "Concrete Stairs",
+      "price": "$100",
+      "description": "A unique view of urban architecture featuring clean lines and texture.",
+      "mainImage": "/images/projects/concrete/stairs1.JPG",
+      "additionalImages": [
+        "/images/projects/concrete/angles.jpg",
+        "/images/projects/concrete/banner.jpg",
+        "/images/projects/concrete/caught.jpg",
+        "/images/projects/concrete/reflection1.jpg"
+      ],
+      "relatedItems": [
+        {
+          "id": "the-walls",
+          "name": "The Walls",
+          "image": "/images/projects/concrete/sit1.jpg",
+          "link": "/details/the-walls",
+          "price": "$100"
+        },
+        {
+          "id": "urban-reflection",
+          "name": "Urban Reflection",
+          "image": "/images/projects/concrete/reflection1.jpg",
+          "link": "/details/urban-reflection",
+          "price": "$100"
+        },
+        {
+          "id": "lost-in-thought",
+          "name": "Lost in Thought",
+          "image": "/images/projects/concrete/thought1.jpg",
+          "link": "/details/lost-in-thought",
+          "price": "$100"
+        },
+        {
+          "id": "passing-by",
+          "name": "Passing By",
+          "image": "/images/projects/concrete/passing1.jpg",
+          "link": "/details/passing-by",
+          "price": "$100"
+        }
+      ]
+    },
+    {
+      "id": "the-walls",
+      "name": "The Walls",
+      "price": "$100",
+      "description": "Texture and simplicity captured in an urban landscape.",
+      "mainImage": "/images/projects/concrete/sit1.jpg",
+      "additionalImages": [
+        "/images/projects/concrete/street.jpg",
+        "/images/projects/concrete/banner.jpg",
+        "/images/projects/concrete/zebra.jpg",
+        "/images/projects/concrete/zebra2.jpg"
+      ],
+      "relatedItems": [
+        {
+          "id": "concrete-stairs",
+          "name": "Concrete Stairs",
+          "image": "/images/projects/concrete/stairs1.JPG",
+          "link": "/details/concrete-stairs",
+          "price": "$100"
+        },
+        {
+          "id": "urban-reflection",
+          "name": "Urban Reflection",
+          "image": "/images/projects/concrete/reflection1.jpg",
+          "link": "/details/urban-reflection",
+          "price": "$100"
+        },
+        {
+          "id": "silent-steps",
+          "name": "Silent Steps",
+          "image": "/images/projects/concrete/silent.jpg",
+          "link": "/details/silent-steps",
+          "price": "$100"
+        },
+        {
+          "id": "caught-in-the-moment",
+          "name": "Caught in the Moment",
+          "image": "/images/projects/concrete/caught.jpg",
+          "link": "/details/caught-in-the-moment",
+          "price": "$100"
+        }
+      ]
+    },
+    {
+      "id": "urban-reflection",
+      "name": "Urban Reflection",
+      "price": "$100",
+      "description": "Reflections of modern life through unique cityscapes.",
+      "mainImage": "/images/projects/concrete/reflection1.jpg",
+      "additionalImages": [
+        "/images/projects/concrete/street.jpg",
+        "/images/projects/concrete/wanderer.jpg",
+        "/images/projects/concrete/banner.jpg",
+        "/images/projects/concrete/angles.jpg"
+      ],
+      "relatedItems": [
+        {
+          "id": "the-walls",
+          "name": "The Walls",
+          "image": "/images/projects/concrete/sit1.jpg",
+          "link": "/details/the-walls",
+          "price": "$100"
+        },
+        {
+          "id": "lost-in-thought",
+          "name": "Lost in Thought",
+          "image": "/images/projects/concrete/thought1.jpg",
+          "link": "/details/lost-in-thought",
+          "price": "$100"
+        },
+        {
+          "id": "city-stroll",
+          "name": "City Stroll",
+          "image": "/images/projects/concrete/zebra2.jpg",
+          "link": "/details/city-stroll",
+          "price": "$100"
+        },
+        {
+          "id": "monochrome-angles",
+          "name": "Monochrome Angles",
+          "image": "/images/projects/concrete/angles.jpg",
+          "link": "/details/monochrome-angles",
+          "price": "$10"
+        }
+      ]
+    },
+    {
+      "id": "lost-in-thought",
+      "name": "Lost in Thought",
+      "price": "$100",
+      "description": "A moment of quiet reflection in a bustling cityscape.",
+      "mainImage": "/images/projects/concrete/thought1.jpg",
+      "additionalImages": [
+        "/images/projects/concrete/street.jpg",
+        "/images/projects/concrete/caught.jpg",
+        "/images/projects/concrete/zebra.jpg",
+        "/images/projects/concrete/zebra2.jpg"
+      ],
+      "relatedItems": [
+        {
+          "id": "passing-by",
+          "name": "Passing By",
+          "image": "/images/projects/concrete/passing1.jpg",
+          "link": "/details/passing-by",
+          "price": "$100"
+        },
+        {
+          "id": "urban-reflection",
+          "name": "Urban Reflection",
+          "image": "/images/projects/concrete/reflection1.jpg",
+          "link": "/details/urban-reflection",
+          "price": "$100"
+        },
+        {
+          "id": "silent-steps",
+          "name": "Silent Steps",
+          "image": "/images/projects/concrete/silent.jpg",
+          "link": "/details/silent-steps",
+          "price": "$100"
+        },
+        {
+          "id": "monochrome-angles",
+          "name": "Monochrome Angles",
+          "image": "/images/projects/concrete/angles.jpg",
+          "link": "/details/monochrome-angles",
+          "price": "$10"
+        }
+      ]
+    },
+    {
+      "id": "passing-by",
+      "name": "Passing By",
+      "price": "$100",
+      "description": "Capturing movement and stillness in an urban setting.",
+      "mainImage": "/images/projects/concrete/passing1.jpg",
+      "additionalImages": [
+        "/images/projects/concrete/zebra.jpg",
+        "/images/projects/concrete/zebra2.jpg",
+        "/images/projects/concrete/wanderer.jpg",
+        "/images/projects/concrete/angles.jpg"
+      ],
+      "relatedItems": [
+        {
+          "id": "concrete-stairs",
+          "name": "Concrete Stairs",
+          "image": "/images/projects/concrete/stairs1.JPG",
+          "link": "/details/concrete-stairs",
+          "price": "$100"
+        },
+        {
+          "id": "silent-steps",
+          "name": "Silent Steps",
+          "image": "/images/projects/concrete/silent.jpg",
+          "link": "/details/silent-steps",
+          "price": "$100"
+        },
+        {
+          "id": "caught-in-the-moment",
+          "name": "Caught in the Moment",
+          "image": "/images/projects/concrete/caught.jpg",
+          "link": "/details/caught-in-the-moment",
+          "price": "$100"
+        },
+        {
+          "id": "observer",
+          "name": "Observer",
+          "image": "/images/projects/concrete/zebra.jpg",
+          "link": "/details/observer",
+          "price": "$100"
+        }
+      ]
+    },
+    {
+      "id": "silent-steps",
+      "name": "Silent Steps",
+      "price": "$100",
+      "description": "A quiet moment of stillness amidst the noise of the city.",
+      "mainImage": "/images/projects/concrete/silent.jpg",
+      "additionalImages": [
+        "/images/projects/concrete/caught.jpg",
+        "/images/projects/concrete/street.jpg",
+        "/images/projects/concrete/zebra.jpg",
+        "/images/projects/concrete/angles.jpg"
+      ],
+      "relatedItems": [
+        {
+          "id": "passing-by",
+          "name": "Passing By",
+          "image": "/images/projects/concrete/passing1.jpg",
+          "link": "/details/passing-by",
+          "price": "$100"
+        },
+        {
+          "id": "observer",
+          "name": "Observer",
+          "image": "/images/projects/concrete/zebra.jpg",
+          "link": "/details/observer",
+          "price": "$100"
+        },
+        {
+          "id": "city-stroll",
+          "name": "City Stroll",
+          "image": "/images/projects/concrete/zebra2.jpg",
+          "link": "/details/city-stroll",
+          "price": "$100"
+        },
+        {
+          "id": "wanderer",
+          "name": "Wanderer",
+          "image": "/images/projects/concrete/wanderer.jpg",
+          "link": "/details/wanderer",
+          "price": "$100"
+        }
+      ]
+    },
+    {
+      "id": "caught-in-the-moment",
+      "name": "Caught in the Moment",
+      "price": "$100",
+      "description": "A snapshot of a fleeting moment in urban life.",
+      "mainImage": "/images/projects/concrete/caught.jpg",
+      "additionalImages": [
+        "/images/projects/concrete/silent.jpg",
+        "/images/projects/concrete/street.jpg",
+        "/images/projects/concrete/thought1.jpg",
+        "/images/projects/concrete/stairs1.JPG"
+      ],
+      "relatedItems": [
+        {
+          "id": "the-walls",
+          "name": "The Walls",
+          "image": "/images/projects/concrete/sit1.jpg",
+          "link": "/details/the-walls",
+          "price": "$100"
+        },
+        {
+          "id": "silent-steps",
+          "name": "Silent Steps",
+          "image": "/images/projects/concrete/silent.jpg",
+          "link": "/details/silent-steps",
+          "price": "$100"
+        },
+        {
+          "id": "city-stroll",
+          "name": "City Stroll",
+          "image": "/images/projects/concrete/zebra2.jpg",
+          "link": "/details/city-stroll",
+          "price": "$100"
+        },
+        {
+          "id": "wanderer",
+          "name": "Wanderer",
+          "image": "/images/projects/concrete/wanderer.jpg",
+          "link": "/details/wanderer",
+          "price": "$100"
+        }
+      ]
+    },
+    {
+      "id": "observer",
+      "name": "Observer",
+      "price": "$100",
+      "description": "A striking composition that captures a unique perspective.",
+      "mainImage": "/images/projects/concrete/zebra.jpg",
+      "additionalImages": [
+        "/images/projects/concrete/silent.jpg",
+        "/images/projects/concrete/passing1.jpg",
+        "/images/projects/concrete/angles.jpg",
+        "/images/projects/concrete/reflection1.jpg"
+      ],
+      "relatedItems": [
+        {
+          "id": "caught-in-the-moment",
+          "name": "Caught in the Moment",
+          "image": "/images/projects/concrete/caught.jpg",
+          "link": "/details/caught-in-the-moment",
+          "price": "$100"
+        },
+        {
+          "id": "city-stroll",
+          "name": "City Stroll",
+          "image": "/images/projects/concrete/zebra2.jpg",
+          "link": "/details/city-stroll",
+          "price": "$100"
+        },
+        {
+          "id": "lost-in-thought",
+          "name": "Lost in Thought",
+          "image": "/images/projects/concrete/thought1.jpg",
+          "link": "/details/lost-in-thought",
+          "price": "$100"
+        },
+        {
+          "id": "city-feel",
+          "name": "City Feel",
+          "image": "/images/projects/concrete/street.jpg",
+          "link": "/details/city-feel",
+          "price": "$100"
+        }
+      ]
+    },
+    {
+      "id": "city-stroll",
+      "name": "City Stroll",
+      "price": "$100",
+      "description": "A tranquil walk through the heart of the city.",
+      "mainImage": "/images/projects/concrete/zebra2.jpg",
+      "additionalImages": [
+        "/images/projects/concrete/zebra.jpg",
+        "/images/projects/concrete/wanderer.jpg",
+        "/images/projects/concrete/street.jpg",
+        "/images/projects/concrete/caught.jpg"
+      ],
+      "relatedItems": [
+        {
+          "id": "observer",
+          "name": "Observer",
+          "image": "/images/projects/concrete/zebra.jpg",
+          "link": "/details/observer",
+          "price": "$100"
+        },
+        {
+          "id": "wanderer",
+          "name": "Wanderer",
+          "image": "/images/projects/concrete/wanderer.jpg",
+          "link": "/details/wanderer",
+          "price": "$100"
+        },
+        {
+          "id": "city-feel",
+          "name": "City Feel",
+          "image": "/images/projects/concrete/street.jpg",
+          "link": "/details/city-feel",
+          "price": "$100"
+        },
+        {
+          "id": "monochrome-angles",
+          "name": "Monochrome Angles",
+          "image": "/images/projects/concrete/angles.jpg",
+          "link": "/details/monochrome-angles",
+          "price": "$10"
+        }
+      ]
+    },
+    {
+      "id": "wanderer",
+      "name": "Wanderer",
+      "price": "$100",
+      "description": "A lone figure wandering through the structured chaos of the city.",
+      "mainImage": "/images/projects/concrete/wanderer.jpg",
+      "additionalImages": [
+        "/images/projects/concrete/zebra2.jpg",
+        "/images/projects/concrete/street.jpg",
+        "/images/projects/concrete/caught.jpg",
+        "/images/projects/concrete/thought1.jpg"
+      ],
+      "relatedItems": [
+        {
+          "id": "city-stroll",
+          "name": "City Stroll",
+          "image": "/images/projects/concrete/zebra2.jpg",
+          "link": "/details/city-stroll",
+          "price": "$100"
+        },
+        {
+          "id": "city-feel",
+          "name": "City Feel",
+          "image": "/images/projects/concrete/street.jpg",
+          "link": "/details/city-feel",
+          "price": "$100"
+        },
+        {
+          "id": "monochrome-angles",
+          "name": "Monochrome Angles",
+          "image": "/images/projects/concrete/angles.jpg",
+          "link": "/details/monochrome-angles",
+          "price": "$10"
+        },
+        {
+          "id": "lost-in-thought",
+          "name": "Lost in Thought",
+          "image": "/images/projects/concrete/thought1.jpg",
+          "link": "/details/lost-in-thought",
+          "price": "$100"
+        }
+      ]
+    },
+    {
+      "id": "city-feel",
+      "name": "City Feel",
+      "price": "$100",
+      "description": "An intimate look at the vibrant essence of city life.",
+      "mainImage": "/images/projects/concrete/street.jpg",
+      "additionalImages": [
+        "/images/projects/concrete/zebra.jpg",
+        "/images/projects/concrete/silent.jpg",
+        "/images/projects/concrete/caught.jpg",
+        "/images/projects/concrete/reflection1.jpg"
+      ],
+      "relatedItems": [
+        {
+          "id": "observer",
+          "name": "Observer",
+          "image": "/images/projects/concrete/zebra.jpg",
+          "link": "/details/observer",
+          "price": "$100"
+        },
+        {
+          "id": "city-stroll",
+          "name": "City Stroll",
+          "image": "/images/projects/concrete/zebra2.jpg",
+          "link": "/details/city-stroll",
+          "price": "$100"
+        },
+        {
+          "id": "wanderer",
+          "name": "Wanderer",
+          "image": "/images/projects/concrete/wanderer.jpg",
+          "link": "/details/wanderer",
+          "price": "$100"
+        },
+        {
+          "id": "monochrome-angles",
+          "name": "Monochrome Angles",
+          "image": "/images/projects/concrete/angles.jpg",
+          "link": "/details/monochrome-angles",
+          "price": "$10"
+        }
+      ]
+    },
+    {
+      "id": "monochrome-angles",
+      "name": "Monochrome Angles",
+      "price": "$10",
+      "description": "A study in geometric forms and contrasting tones.",
+      "mainImage": "/images/projects/concrete/angles.jpg",
+      "additionalImages": [
+        "/images/projects/concrete/banner.jpg",
+        "/images/projects/concrete/wanderer.jpg",
+        "/images/projects/concrete/thought1.jpg",
+        "/images/projects/concrete/street.jpg"
+      ],
+      "relatedItems": [
+        {
+          "id": "city-stroll",
+          "name": "City Stroll",
+          "image": "/images/projects/concrete/zebra2.jpg",
+          "link": "/details/city-stroll",
+          "price": "$100"
+        },
+        {
+          "id": "city-feel",
+          "name": "City Feel",
+          "image": "/images/projects/concrete/street.jpg",
+          "link": "/details/city-feel",
+          "price": "$100"
+        },
+        {
+          "id": "wanderer",
+          "name": "Wanderer",
+          "image": "/images/projects/concrete/wanderer.jpg",
+          "link": "/details/wanderer",
+          "price": "$100"
+        },
+        {
+          "id": "lost-in-thought",
+          "name": "Lost in Thought",
+          "image": "/images/projects/concrete/thought1.jpg",
+          "link": "/details/lost-in-thought",
+          "price": "$100"
+        }
+      ]
+    },
+    {
+      "id": "city-shadows",
+      "name": "City Shadows",
+      "price": "$100",
+      "description": "A play of light and shadow capturing the fleeting beauty of urban life.",
+      "mainImage": "/images/projects/moments/image1.jpg",
+      "additionalImages": [
+        "/images/projects/moments/image2.jpg",
+        "/images/projects/moments/image3.jpg",
+        "/images/projects/moments/image4.jpg",
+        "/images/projects/moments/image5.jpg"
+      ],
+      "relatedItems": [
+        {
+          "id": "sunlit-moments",
+          "name": "Sunlit Moments",
+          "image": "/images/projects/moments/image2.jpg",
+          "link": "/details/sunlit-moments",
+          "price": "$100"
+        },
+        {
+          "id": "golden-hour-glow",
+          "name": "Golden Hour Glow",
+          "image": "/images/projects/moments/image3.jpg",
+          "link": "/details/golden-hour-glow",
+          "price": "$100"
+        },
+        {
+          "id": "urban-laughter",
+          "name": "Urban Laughter",
+          "image": "/images/projects/moments/image4.jpg",
+          "link": "/details/urban-laughter",
+          "price": "$100"
+        },
+        {
+          "id": "shared-silence",
+          "name": "Shared Silence",
+          "image": "/images/projects/moments/image5.jpg",
+          "link": "/details/shared-silence",
+          "price": "$100"
+        }
+      ]
+    },
+    {
+      "id": "sunlit-moments",
+      "name": "Sunlit Moments",
+      "price": "$100",
+      "description": "An intimate moment basking in the warm embrace of the sun.",
+      "mainImage": "/images/projects/moments/image2.jpg",
+      "additionalImages": [
+        "/images/projects/moments/image1.jpg",
+        "/images/projects/moments/image3.jpg",
+        "/images/projects/moments/image4.jpg",
+        "/images/projects/moments/image6.jpg"
+      ],
+      "relatedItems": [
+        {
+          "id": "city-shadows",
+          "name": "City Shadows",
+          "image": "/images/projects/moments/image1.jpg",
+          "link": "/details/city-shadows",
+          "price": "$100"
+        },
+        {
+          "id": "golden-hour-glow",
+          "name": "Golden Hour Glow",
+          "image": "/images/projects/moments/image3.jpg",
+          "link": "/details/golden-hour-glow",
+          "price": "$100"
+        },
+        {
+          "id": "urban-laughter",
+          "name": "Urban Laughter",
+          "image": "/images/projects/moments/image4.jpg",
+          "link": "/details/urban-laughter",
+          "price": "$100"
+        },
+        {
+          "id": "sunset-reflections",
+          "name": "Sunset Reflections",
+          "image": "/images/projects/moments/image6.jpg",
+          "link": "/details/sunset-reflections",
+          "price": "$100"
+        }
+      ]
+    },
+    {
+      "id": "golden-hour-glow",
+      "name": "Golden Hour Glow",
+      "price": "$100",
+      "description": "A golden moment that captures the essence of serenity and beauty.",
+      "mainImage": "/images/projects/moments/image3.jpg",
+      "additionalImages": [
+        "/images/projects/moments/image1.jpg",
+        "/images/projects/moments/image2.jpg",
+        "/images/projects/moments/image4.jpg",
+        "/images/projects/moments/image7.jpg"
+      ],
+      "relatedItems": [
+        {
+          "id": "city-shadows",
+          "name": "City Shadows",
+          "image": "/images/projects/moments/image1.jpg",
+          "link": "/details/city-shadows",
+          "price": "$100"
+        },
+        {
+          "id": "sunlit-moments",
+          "name": "Sunlit Moments",
+          "image": "/images/projects/moments/image2.jpg",
+          "link": "/details/sunlit-moments",
+          "price": "$100"
+        },
+        {
+          "id": "urban-laughter",
+          "name": "Urban Laughter",
+          "image": "/images/projects/moments/image4.jpg",
+          "link": "/details/urban-laughter",
+          "price": "$100"
+        },
+        {
+          "id": "carefree-connections",
+          "name": "Carefree Connections",
+          "image": "/images/projects/moments/image7.jpg",
+          "link": "/details/carefree-connections",
+          "price": "$100"
+        }
+      ]
+    },
+    {
+      "id": "urban-laughter",
+      "name": "Urban Laughter",
+      "price": "$100",
+      "description": "A joyful expression of life against an urban backdrop.",
+      "mainImage": "/images/projects/moments/image4.jpg",
+      "additionalImages": [
+        "/images/projects/moments/image1.jpg",
+        "/images/projects/moments/image2.jpg",
+        "/images/projects/moments/image3.jpg",
+        "/images/projects/moments/image5.jpg"
+      ],
+      "relatedItems": [
+        {
+          "id": "city-shadows",
+          "name": "City Shadows",
+          "image": "/images/projects/moments/image1.jpg",
+          "link": "/details/city-shadows",
+          "price": "$100"
+        },
+        {
+          "id": "sunlit-moments",
+          "name": "Sunlit Moments",
+          "image": "/images/projects/moments/image2.jpg",
+          "link": "/details/sunlit-moments",
+          "price": "$100"
+        },
+        {
+          "id": "golden-hour-glow",
+          "name": "Golden Hour Glow",
+          "image": "/images/projects/moments/image3.jpg",
+          "link": "/details/golden-hour-glow",
+          "price": "$100"
+        },
+        {
+          "id": "shared-silence",
+          "name": "Shared Silence",
+          "image": "/images/projects/moments/image5.jpg",
+          "link": "/details/shared-silence",
+          "price": "$100"
+        }
+      ]
+    },
+    {
+      "id": "shared-silence",
+      "name": "Shared Silence",
+      "price": "$100",
+      "description": "A quiet moment of connection amidst the urban chaos.",
+      "mainImage": "/images/projects/moments/image5.jpg",
+      "additionalImages": [
+        "/images/projects/moments/image1.jpg",
+        "/images/projects/moments/image2.jpg",
+        "/images/projects/moments/image6.jpg",
+        "/images/projects/moments/image7.jpg"
+      ],
+      "relatedItems": [
+        {
+          "id": "city-shadows",
+          "name": "City Shadows",
+          "image": "/images/projects/moments/image1.jpg",
+          "link": "/details/city-shadows",
+          "price": "$100"
+        },
+        {
+          "id": "sunlit-moments",
+          "name": "Sunlit Moments",
+          "image": "/images/projects/moments/image2.jpg",
+          "link": "/details/sunlit-moments",
+          "price": "$100"
+        },
+        {
+          "id": "golden-hour-glow",
+          "name": "Golden Hour Glow",
+          "image": "/images/projects/moments/image3.jpg",
+          "link": "/details/golden-hour-glow",
+          "price": "$100"
+        },
+        {
+          "id": "urban-laughter",
+          "name": "Urban Laughter",
+          "image": "/images/projects/moments/image4.jpg",
+          "link": "/details/urban-laughter",
+          "price": "$100"
+        }
+      ]
+    },
+    {
+      "id": "sunset-reflections",
+      "name": "Sunset Reflections",
+      "price": "$100",
+      "description": "Capturing the golden hues of sunset reflected in the city.",
+      "mainImage": "/images/projects/moments/image6.jpg",
+      "additionalImages": [
+        "/images/projects/moments/image1.jpg",
+        "/images/projects/moments/image4.jpg",
+        "/images/projects/moments/image5.jpg",
+        "/images/projects/moments/image7.jpg"
+      ],
+      "relatedItems": [
+        {
+          "id": "city-shadows",
+          "name": "City Shadows",
+          "image": "/images/projects/moments/image1.jpg",
+          "link": "/details/city-shadows",
+          "price": "$100"
+        },
+        {
+          "id": "urban-laughter",
+          "name": "Urban Laughter",
+          "image": "/images/projects/moments/image4.jpg",
+          "link": "/details/urban-laughter",
+          "price": "$100"
+        },
+        {
+          "id": "shared-silence",
+          "name": "Shared Silence",
+          "image": "/images/projects/moments/image5.jpg",
+          "link": "/details/shared-silence",
+          "price": "$100"
+        },
+        {
+          "id": "carefree-connections",
+          "name": "Carefree Connections",
+          "image": "/images/projects/moments/image7.jpg",
+          "link": "/details/carefree-connections",
+          "price": "$100"
+        }
+      ]
+    },
+    {
+      "id": "carefree-connections",
+      "name": "Carefree Connections",
+      "price": "$100",
+      "description": "Moments of pure joy and connection in a vibrant urban setting.",
+      "mainImage": "/images/projects/moments/image7.jpg",
+      "additionalImages": [
+        "/images/projects/moments/image2.jpg",
+        "/images/projects/moments/image5.jpg",
+        "/images/projects/moments/image6.jpg",
+        "/images/projects/moments/image8.jpg"
+      ],
+      "relatedItems": [
+        {
+          "id": "sunlit-moments",
+          "name": "Sunlit Moments",
+          "image": "/images/projects/moments/image2.jpg",
+          "link": "/details/sunlit-moments",
+          "price": "$100"
+        },
+        {
+          "id": "shared-silence",
+          "name": "Shared Silence",
+          "image": "/images/projects/moments/image5.jpg",
+          "link": "/details/shared-silence",
+          "price": "$100"
+        },
+        {
+          "id": "sunset-reflections",
+          "name": "Sunset Reflections",
+          "image": "/images/projects/moments/image6.jpg",
+          "link": "/details/sunset-reflections",
+          "price": "$100"
+        },
+        {
+          "id": "evening-embrace",
+          "name": "Evening Embrace",
+          "image": "/images/projects/moments/image8.jpg",
+          "link": "/details/evening-embrace",
+          "price": "$100"
+        }
+      ]
+    },
+    {
+      "id": "evening-embrace",
+      "name": "Evening Embrace",
+      "price": "$100",
+      "description": "A tranquil evening moment captured with warmth and elegance.",
+      "mainImage": "/images/projects/moments/image8.jpg",
+      "additionalImages": [
+        "/images/projects/moments/image3.jpg",
+        "/images/projects/moments/image5.jpg",
+        "/images/projects/moments/image7.jpg",
+        "/images/projects/moments/image9.jpg"
+      ],
+      "relatedItems": [
+        {
+          "id": "golden-hour-glow",
+          "name": "Golden Hour Glow",
+          "image": "/images/projects/moments/image3.jpg",
+          "link": "/details/golden-hour-glow",
+          "price": "$100"
+        },
+        {
+          "id": "shared-silence",
+          "name": "Shared Silence",
+          "image": "/images/projects/moments/image5.jpg",
+          "link": "/details/shared-silence",
+          "price": "$100"
+        },
+        {
+          "id": "carefree-connections",
+          "name": "Carefree Connections",
+          "image": "/images/projects/moments/image7.jpg",
+          "link": "/details/carefree-connections",
+          "price": "$100"
+        },
+        {
+          "id": "vibrant-walls",
+          "name": "Vibrant Walls",
+          "image": "/images/projects/moments/image9.jpg",
+          "link": "/details/vibrant-walls",
+          "price": "$100"
+        }
+      ]
+    },
+    {
+      "id": "vibrant-walls",
+      "name": "Vibrant Walls",
+      "price": "$100",
+      "description": "A dynamic composition showcasing the energy of colorful urban murals.",
+      "mainImage": "/images/projects/moments/image9.jpg",
+      "additionalImages": [
+        "/images/projects/moments/image2.jpg",
+        "/images/projects/moments/image6.jpg",
+        "/images/projects/moments/image8.jpg",
+        "/images/projects/moments/image10.jpg"
+      ],
+      "relatedItems": [
+        {
+          "id": "sunlit-moments",
+          "name": "Sunlit Moments",
+          "image": "/images/projects/moments/image2.jpg",
+          "link": "/details/sunlit-moments",
+          "price": "$100"
+        },
+        {
+          "id": "sunset-reflections",
+          "name": "Sunset Reflections",
+          "image": "/images/projects/moments/image6.jpg",
+          "link": "/details/sunset-reflections",
+          "price": "$100"
+        },
+        {
+          "id": "evening-embrace",
+          "name": "Evening Embrace",
+          "image": "/images/projects/moments/image8.jpg",
+          "link": "/details/evening-embrace",
+          "price": "$100"
+        },
+        {
+          "id": "playful-encounters",
+          "name": "Playful Encounters",
+          "image": "/images/projects/moments/image10.jpg",
+          "link": "/details/playful-encounters",
+          "price": "$100"
+        }
+      ]
+    },
+    {
+      "id": "playful-encounters",
+      "name": "Playful Encounters",
+      "price": "$100",
+      "description": "A lively and candid moment capturing the joy of unexpected interactions.",
+      "mainImage": "/images/projects/moments/image10.jpg",
+      "additionalImages": [
+        "/images/projects/moments/image1.jpg",
+        "/images/projects/moments/image4.jpg",
+        "/images/projects/moments/image8.jpg",
+        "/images/projects/moments/image11.jpg"
+      ],
+      "relatedItems": [
+        {
+          "id": "city-shadows",
+          "name": "City Shadows",
+          "image": "/images/projects/moments/image1.jpg",
+          "link": "/details/city-shadows",
+          "price": "$100"
+        },
+        {
+          "id": "urban-laughter",
+          "name": "Urban Laughter",
+          "image": "/images/projects/moments/image4.jpg",
+          "link": "/details/urban-laughter",
+          "price": "$100"
+        },
+        {
+          "id": "evening-embrace",
+          "name": "Evening Embrace",
+          "image": "/images/projects/moments/image8.jpg",
+          "link": "/details/evening-embrace",
+          "price": "$100"
+        },
+        {
+          "id": "light-through-chains",
+          "name": "Light Through Chains",
+          "image": "/images/projects/moments/image11.jpg",
+          "link": "/details/light-through-chains",
+          "price": "$100"
+        }
+      ]
+    },
+    {
+      "id": "light-through-chains",
+      "name": "Light Through Chains",
+      "price": "$100",
+      "description": "A unique interplay of light and texture, captured through urban design.",
+      "mainImage": "/images/projects/moments/image11.jpg",
+      "additionalImages": [
+        "/images/projects/moments/image3.jpg",
+        "/images/projects/moments/image8.jpg",
+        "/images/projects/moments/image10.jpg",
+        "/images/projects/moments/image12.jpg"
+      ],
+      "relatedItems": [
+        {
+          "id": "golden-hour-glow",
+          "name": "Golden Hour Glow",
+          "image": "/images/projects/moments/image3.jpg",
+          "link": "/details/golden-hour-glow",
+          "price": "$100"
+        },
+        {
+          "id": "evening-embrace",
+          "name": "Evening Embrace",
+          "image": "/images/projects/moments/image8.jpg",
+          "link": "/details/evening-embrace",
+          "price": "$100"
+        },
+        {
+          "id": "playful-encounters",
+          "name": "Playful Encounters",
+          "image": "/images/projects/moments/image10.jpg",
+          "link": "/details/playful-encounters",
+          "price": "$100"
+        },
+        {
+          "id": "skyward-glow",
+          "name": "Skyward Glow",
+          "image": "/images/projects/moments/image12.jpg",
+          "link": "/details/skyward-glow",
+          "price": "$100"
+        }
+      ]
+    },
+    {
+      "id": "skyward-glow",
+      "name": "Skyward Glow",
+      "price": "$100",
+      "description": "A radiant moment capturing the vast beauty of the city and sky.",
+      "mainImage": "/images/projects/moments/image12.jpg",
+      "additionalImages": [
+        "/images/projects/moments/image5.jpg",
+        "/images/projects/moments/image7.jpg",
+        "/images/projects/moments/image9.jpg",
+        "/images/projects/moments/image11.jpg"
+      ],
+      "relatedItems": [
+        {
+          "id": "shared-silence",
+          "name": "Shared Silence",
+          "image": "/images/projects/moments/image5.jpg",
+          "link": "/details/shared-silence",
+          "price": "$100"
+        },
+        {
+          "id": "carefree-connections",
+          "name": "Carefree Connections",
+          "image": "/images/projects/moments/image7.jpg",
+          "link": "/details/carefree-connections",
+          "price": "$100"
+        },
+        {
+          "id": "vibrant-walls",
+          "name": "Vibrant Walls",
+          "image": "/images/projects/moments/image9.jpg",
+          "link": "/details/vibrant-walls",
+          "price": "$100"
+        },
+        {
+          "id": "light-through-chains",
+          "name": "Light Through Chains",
+          "image": "/images/projects/moments/image11.jpg",
+          "link": "/details/light-through-chains",
+          "price": "$100"
+        }
+      ]
+    },
+    {
+      "id": "piazza-reflections",
+      "name": "Piazza Reflections",
+      "price": "$100",
+      "description": "A charming look into the sunlit piazzas of Italy.",
+      "mainImage": "/images/projects/italy/image1.jpg",
+      "additionalImages": [
+        "/images/projects/italy/image2.jpg",
+        "/images/projects/italy/image3.jpg",
+        "/images/projects/italy/image4.jpg",
+        "/images/projects/italy/image5.jpg"
+      ],
+      "relatedItems": [
+        {
+          "id": "seaside-elegance",
+          "name": "Seaside Elegance",
+          "image": "/images/projects/italy/image2.jpg",
+          "link": "/details/seaside-elegance",
+          "price": "$100"
+        },
+        {
+          "id": "sunkissed-by-the-sea",
+          "name": "Sunkissed by the Sea",
+          "image": "/images/projects/italy/image3.jpg",
+          "link": "/details/sunkissed-by-the-sea",
+          "price": "$100"
+        },
+        {
+          "id": "guardian-of-the-park",
+          "name": "Guardian of the Park",
+          "image": "/images/projects/italy/image4.jpg",
+          "link": "/details/guardian-of-the-park",
+          "price": "$100"
+        },
+        {
+          "id": "tuscan-horizon",
+          "name": "Tuscan Horizon",
+          "image": "/images/projects/italy/image5.jpg",
+          "link": "/details/tuscan-horizon",
+          "price": "$100"
+        }
+      ]
+    },
+    {
+      "id": "seaside-elegance",
+      "name": "Seaside Elegance",
+      "price": "$100",
+      "description": "A picturesque view of Italian seaside charm.",
+      "mainImage": "/images/projects/italy/image2.jpg",
+      "additionalImages": [
+        "/images/projects/italy/image1.jpg",
+        "/images/projects/italy/image3.jpg",
+        "/images/projects/italy/image4.jpg",
+        "/images/projects/italy/image6.jpg"
+      ],
+      "relatedItems": [
+        {
+          "id": "piazza-reflections",
+          "name": "Piazza Reflections",
+          "image": "/images/projects/italy/image1.jpg",
+          "link": "/details/piazza-reflections",
+          "price": "$100"
+        },
+        {
+          "id": "sunkissed-by-the-sea",
+          "name": "Sunkissed by the Sea",
+          "image": "/images/projects/italy/image3.jpg",
+          "link": "/details/sunkissed-by-the-sea",
+          "price": "$100"
+        },
+        {
+          "id": "guardian-of-the-park",
+          "name": "Guardian of the Park",
+          "image": "/images/projects/italy/image4.jpg",
+          "link": "/details/guardian-of-the-park",
+          "price": "$100"
+        },
+        {
+          "id": "fields-of-serenity",
+          "name": "Fields of Serenity",
+          "image": "/images/projects/italy/image6.jpg",
+          "link": "/details/fields-of-serenity",
+          "price": "$100"
+        }
+      ]
+    },
+    {
+      "id": "sunkissed-by-the-sea",
+      "name": "Sunkissed by the Sea",
+      "price": "$100",
+      "description": "Basking in the warmth of the Mediterranean sun.",
+      "mainImage": "/images/projects/italy/image3.jpg",
+      "additionalImages": [
+        "/images/projects/italy/image1.jpg",
+        "/images/projects/italy/image2.jpg",
+        "/images/projects/italy/image4.jpg",
+        "/images/projects/italy/image7.jpg"
+      ],
+      "relatedItems": [
+        {
+          "id": "piazza-reflections",
+          "name": "Piazza Reflections",
+          "image": "/images/projects/italy/image1.jpg",
+          "link": "/details/piazza-reflections",
+          "price": "$100"
+        },
+        {
+          "id": "seaside-elegance",
+          "name": "Seaside Elegance",
+          "image": "/images/projects/italy/image2.jpg",
+          "link": "/details/seaside-elegance",
+          "price": "$100"
+        },
+        {
+          "id": "guardian-of-the-park",
+          "name": "Guardian of the Park",
+          "image": "/images/projects/italy/image4.jpg",
+          "link": "/details/guardian-of-the-park",
+          "price": "$100"
+        },
+        {
+          "id": "countryside-charm",
+          "name": "Countryside Charm",
+          "image": "/images/projects/italy/image7.jpg",
+          "link": "/details/countryside-charm",
+          "price": "$100"
+        }
+      ]
+    },
+    {
+      "id": "guardian-of-the-park",
+      "name": "Guardian of the Park",
+      "price": "$100",
+      "description": "A serene capture of Italian parks and their historic charm.",
+      "mainImage": "/images/projects/italy/image4.jpg",
+      "additionalImages": [
+        "/images/projects/italy/image1.jpg",
+        "/images/projects/italy/image3.jpg",
+        "/images/projects/italy/image5.jpg",
+        "/images/projects/italy/image8.jpg"
+      ],
+      "relatedItems": [
+        {
+          "id": "piazza-reflections",
+          "name": "Piazza Reflections",
+          "image": "/images/projects/italy/image1.jpg",
+          "link": "/details/piazza-reflections",
+          "price": "$100"
+        },
+        {
+          "id": "sunkissed-by-the-sea",
+          "name": "Sunkissed by the Sea",
+          "image": "/images/projects/italy/image3.jpg",
+          "link": "/details/sunkissed-by-the-sea",
+          "price": "$100"
+        },
+        {
+          "id": "tuscan-horizon",
+          "name": "Tuscan Horizon",
+          "image": "/images/projects/italy/image5.jpg",
+          "link": "/details/tuscan-horizon",
+          "price": "$100"
+        },
+        {
+          "id": "brunch-by-the-coast",
+          "name": "Brunch by the Coast",
+          "image": "/images/projects/italy/image8.jpg",
+          "link": "/details/brunch-by-the-coast",
+          "price": "$100"
+        }
+      ]
+    },
+    {
+      "id": "tuscan-horizon",
+      "name": "Tuscan Horizon",
+      "price": "$100",
+      "description": "A breathtaking view of Tuscany's rolling hills and endless skies.",
+      "mainImage": "/images/projects/italy/image5.jpg",
+      "additionalImages": [
+        "/images/projects/italy/image2.jpg",
+        "/images/projects/italy/image4.jpg",
+        "/images/projects/italy/image6.jpg",
+        "/images/projects/italy/image9.jpg"
+      ],
+      "relatedItems": [
+        {
+          "id": "seaside-elegance",
+          "name": "Seaside Elegance",
+          "image": "/images/projects/italy/image2.jpg",
+          "link": "/details/seaside-elegance",
+          "price": "$100"
+        },
+        {
+          "id": "guardian-of-the-park",
+          "name": "Guardian of the Park",
+          "image": "/images/projects/italy/image4.jpg",
+          "link": "/details/guardian-of-the-park",
+          "price": "$100"
+        },
+        {
+          "id": "fields-of-serenity",
+          "name": "Fields of Serenity",
+          "image": "/images/projects/italy/image6.jpg",
+          "link": "/details/fields-of-serenity",
+          "price": "$100"
+        },
+        {
+          "id": "morning-light-conversations",
+          "name": "Morning Light Conversations",
+          "image": "/images/projects/italy/image9.jpg",
+          "link": "/details/morning-light-conversations",
+          "price": "$100"
+        }
+      ]
+    },
+    {
+      "id": "fields-of-serenity",
+      "name": "Fields of Serenity",
+      "price": "$100",
+      "description": "Golden fields of Italy that radiate peace and tranquility.",
+      "mainImage": "/images/projects/italy/image6.jpg",
+      "additionalImages": [
+        "/images/projects/italy/image1.jpg",
+        "/images/projects/italy/image5.jpg",
+        "/images/projects/italy/image7.jpg",
+        "/images/projects/italy/image8.jpg"
+      ],
+      "relatedItems": [
+        {
+          "id": "piazza-reflections",
+          "name": "Piazza Reflections",
+          "image": "/images/projects/italy/image1.jpg",
+          "link": "/details/piazza-reflections",
+          "price": "$100"
+        },
+        {
+          "id": "tuscan-horizon",
+          "name": "Tuscan Horizon",
+          "image": "/images/projects/italy/image5.jpg",
+          "link": "/details/tuscan-horizon",
+          "price": "$100"
+        },
+        {
+          "id": "countryside-charm",
+          "name": "Countryside Charm",
+          "image": "/images/projects/italy/image7.jpg",
+          "link": "/details/countryside-charm",
+          "price": "$100"
+        },
+        {
+          "id": "brunch-by-the-coast",
+          "name": "Brunch by the Coast",
+          "image": "/images/projects/italy/image8.jpg",
+          "link": "/details/brunch-by-the-coast",
+          "price": "$100"
+        }
+      ]
+    },
+    {
+      "id": "countryside-charm",
+      "name": "Countryside Charm",
+      "price": "$100",
+      "description": "A rustic Italian countryside scene full of character and charm.",
+      "mainImage": "/images/projects/italy/image7.jpg",
+      "additionalImages": [
+        "/images/projects/italy/image2.jpg",
+        "/images/projects/italy/image6.jpg",
+        "/images/projects/italy/image8.jpg",
+        "/images/projects/italy/image10.jpg"
+      ],
+      "relatedItems": [
+        {
+          "id": "seaside-elegance",
+          "name": "Seaside Elegance",
+          "image": "/images/projects/italy/image2.jpg",
+          "link": "/details/seaside-elegance",
+          "price": "$100"
+        },
+        {
+          "id": "fields-of-serenity",
+          "name": "Fields of Serenity",
+          "image": "/images/projects/italy/image6.jpg",
+          "link": "/details/fields-of-serenity",
+          "price": "$100"
+        },
+        {
+          "id": "brunch-by-the-coast",
+          "name": "Brunch by the Coast",
+          "image": "/images/projects/italy/image8.jpg",
+          "link": "/details/brunch-by-the-coast",
+          "price": "$100"
+        },
+        {
+          "id": "david-in-florence",
+          "name": "David in Florence",
+          "image": "/images/projects/italy/image10.jpg",
+          "link": "/details/david-in-florence",
+          "price": "$100"
+        }
+      ]
+    },
+    {
+      "id": "brunch-by-the-coast",
+      "name": "Brunch by the Coast",
+      "price": "$100",
+      "description": "A delightful Italian coastal brunch scene that captures the Mediterranean charm.",
+      "mainImage": "/images/projects/italy/image8.jpg",
+      "additionalImages": [
+        "/images/projects/italy/image1.jpg",
+        "/images/projects/italy/image4.jpg",
+        "/images/projects/italy/image7.jpg",
+        "/images/projects/italy/image10.jpg"
+      ],
+      "relatedItems": [
+        {
+          "id": "piazza-reflections",
+          "name": "Piazza Reflections",
+          "image": "/images/projects/italy/image1.jpg",
+          "link": "/details/piazza-reflections",
+          "price": "$100"
+        },
+        {
+          "id": "guardian-of-the-park",
+          "name": "Guardian of the Park",
+          "image": "/images/projects/italy/image4.jpg",
+          "link": "/details/guardian-of-the-park",
+          "price": "$100"
+        },
+        {
+          "id": "countryside-charm",
+          "name": "Countryside Charm",
+          "image": "/images/projects/italy/image7.jpg",
+          "link": "/details/countryside-charm",
+          "price": "$100"
+        },
+        {
+          "id": "david-in-florence",
+          "name": "David in Florence",
+          "image": "/images/projects/italy/image10.jpg",
+          "link": "/details/david-in-florence",
+          "price": "$100"
+        }
+      ]
+    },
+    {
+      "id": "morning-light-conversations",
+      "name": "Morning Light Conversations",
+      "price": "$100",
+      "description": "An intimate moment of connection under the warm morning light.",
+      "mainImage": "/images/projects/italy/image9.jpg",
+      "additionalImages": [
+        "/images/projects/italy/image2.jpg",
+        "/images/projects/italy/image5.jpg",
+        "/images/projects/italy/image6.jpg",
+        "/images/projects/italy/image8.jpg"
+      ],
+      "relatedItems": [
+        {
+          "id": "seaside-elegance",
+          "name": "Seaside Elegance",
+          "image": "/images/projects/italy/image2.jpg",
+          "link": "/details/seaside-elegance",
+          "price": "$100"
+        },
+        {
+          "id": "tuscan-horizon",
+          "name": "Tuscan Horizon",
+          "image": "/images/projects/italy/image5.jpg",
+          "link": "/details/tuscan-horizon",
+          "price": "$100"
+        },
+        {
+          "id": "fields-of-serenity",
+          "name": "Fields of Serenity",
+          "image": "/images/projects/italy/image6.jpg",
+          "link": "/details/fields-of-serenity",
+          "price": "$100"
+        },
+        {
+          "id": "brunch-by-the-coast",
+          "name": "Brunch by the Coast",
+          "image": "/images/projects/italy/image8.jpg",
+          "link": "/details/brunch-by-the-coast",
+          "price": "$100"
+        }
+      ]
+    },
+    {
+      "id": "david-in-florence",
+      "name": "David in Florence",
+      "price": "$100",
+      "description": "An iconic capture of David, a symbol of Florence's artistic legacy.",
+      "mainImage": "/images/projects/italy/image10.jpg",
+      "additionalImages": [
+        "/images/projects/italy/image1.jpg",
+        "/images/projects/italy/image4.jpg",
+        "/images/projects/italy/image7.jpg",
+        "/images/projects/italy/image8.jpg"
+      ],
+      "relatedItems": [
+        {
+          "id": "piazza-reflections",
+          "name": "Piazza Reflections",
+          "image": "/images/projects/italy/image1.jpg",
+          "link": "/details/piazza-reflections",
+          "price": "$100"
+        },
+        {
+          "id": "guardian-of-the-park",
+          "name": "Guardian of the Park",
+          "image": "/images/projects/italy/image4.jpg",
+          "link": "/details/guardian-of-the-park",
+          "price": "$100"
+        },
+        {
+          "id": "countryside-charm",
+          "name": "Countryside Charm",
+          "image": "/images/projects/italy/image7.jpg",
+          "link": "/details/countryside-charm",
+          "price": "$100"
+        },
+        {
+          "id": "brunch-by-the-coast",
+          "name": "Brunch by the Coast",
+          "image": "/images/projects/italy/image8.jpg",
+          "link": "/details/brunch-by-the-coast",
+          "price": "$100"
+        }
+      ]
+    },
+    {
+      "id": "airy-balcony",
+      "name": "Airy Balcony",
+      "price": "$100",
+      "description": "A serene balcony with a view, epitomizing Italian elegance.",
+      "mainImage": "/images/projects/italy/image11.jpg",
+      "additionalImages": [
+        "/images/projects/italy/image2.jpg",
+        "/images/projects/italy/image6.jpg",
+        "/images/projects/italy/image8.jpg",
+        "/images/projects/italy/image9.jpg"
+      ],
+      "relatedItems": [
+        {
+          "id": "seaside-elegance",
+          "name": "Seaside Elegance",
+          "image": "/images/projects/italy/image2.jpg",
+          "link": "/details/seaside-elegance",
+          "price": "$100"
+        },
+        {
+          "id": "fields-of-serenity",
+          "name": "Fields of Serenity",
+          "image": "/images/projects/italy/image6.jpg",
+          "link": "/details/fields-of-serenity",
+          "price": "$100"
+        },
+        {
+          "id": "brunch-by-the-coast",
+          "name": "Brunch by the Coast",
+          "image": "/images/projects/italy/image8.jpg",
+          "link": "/details/brunch-by-the-coast",
+          "price": "$100"
+        },
+        {
+          "id": "morning-light-conversations",
+          "name": "Morning Light Conversations",
+          "image": "/images/projects/italy/image9.jpg",
+          "link": "/details/morning-light-conversations",
+          "price": "$100"
+        }
+      ]
+    },
+    {
+      "id": "sunlit-courtyard",
+      "name": "Sunlit Courtyard",
+      "price": "$100",
+      "description": "A tranquil courtyard illuminated by warm sunlight, rich in character.",
+      "mainImage": "/images/projects/italy/image12.jpg",
+      "additionalImages": [
+        "/images/projects/italy/image1.jpg",
+        "/images/projects/italy/image5.jpg",
+        "/images/projects/italy/image8.jpg",
+        "/images/projects/italy/image11.jpg"
+      ],
+      "relatedItems": [
+        {
+          "id": "piazza-reflections",
+          "name": "Piazza Reflections",
+          "image": "/images/projects/italy/image1.jpg",
+          "link": "/details/piazza-reflections",
+          "price": "$100"
+        },
+        {
+          "id": "tuscan-horizon",
+          "name": "Tuscan Horizon",
+          "image": "/images/projects/italy/image5.jpg",
+          "link": "/details/tuscan-horizon",
+          "price": "$100"
+        },
+        {
+          "id": "brunch-by-the-coast",
+          "name": "Brunch by the Coast",
+          "image": "/images/projects/italy/image8.jpg",
+          "link": "/details/brunch-by-the-coast",
+          "price": "$100"
+        },
+        {
+          "id": "airy-balcony",
+          "name": "Airy Balcony",
+          "image": "/images/projects/italy/image11.jpg",
+          "link": "/details/airy-balcony",
+          "price": "$100"
+        }
+      ]
+    },
+    {
+      "id": "veil-of-color",
+      "name": "Veil of Color",
+      "price": "$100",
+      "description": "An exploration of bold, moody lighting in urban settings.",
+      "mainImage": "/images/projects/luminous/image1.jpg",
+      "additionalImages": [
+        "/images/projects/luminous/image2.jpg",
+        "/images/projects/luminous/image3.jpg",
+        "/images/projects/luminous/image4.jpg",
+        "/images/projects/luminous/image5.jpg"
+      ],
+      "relatedItems": [
+        {
+          "id": "glimmer-of-reflection",
+          "name": "Glimmer of Reflection",
+          "image": "/images/projects/luminous/image2.jpg",
+          "link": "/details/glimmer-of-reflection",
+          "price": "$100"
+        },
+        {
+          "id": "dream-in-violet",
+          "name": "Dream in Violet",
+          "image": "/images/projects/luminous/image3.jpg",
+          "link": "/details/dream-in-violet",
+          "price": "$100"
+        },
+        {
+          "id": "subtle-gaze",
+          "name": "Subtle Gaze",
+          "image": "/images/projects/luminous/image4.jpg",
+          "link": "/details/subtle-gaze",
+          "price": "$100"
+        },
+        {
+          "id": "shimmering-nostalgia",
+          "name": "Shimmering Nostalgia",
+          "image": "/images/projects/luminous/image5.jpg",
+          "link": "/details/shimmering-nostalgia",
+          "price": "$100"
+        }
+      ]
+    },
+    {
+      "id": "glimmer-of-reflection",
+      "name": "Glimmer of Reflection",
+      "price": "$100",
+      "description": "A delicate play of light reflecting off urban surfaces.",
+      "mainImage": "/images/projects/luminous/image2.jpg",
+      "additionalImages": [
+        "/images/projects/luminous/image1.jpg",
+        "/images/projects/luminous/image3.jpg",
+        "/images/projects/luminous/image4.jpg",
+        "/images/projects/luminous/image6.jpg"
+      ],
+      "relatedItems": [
+        {
+          "id": "veil-of-color",
+          "name": "Veil of Color",
+          "image": "/images/projects/luminous/image1.jpg",
+          "link": "/details/veil-of-color",
+          "price": "$100"
+        },
+        {
+          "id": "dream-in-violet",
+          "name": "Dream in Violet",
+          "image": "/images/projects/luminous/image3.jpg",
+          "link": "/details/dream-in-violet",
+          "price": "$100"
+        },
+        {
+          "id": "subtle-gaze",
+          "name": "Subtle Gaze",
+          "image": "/images/projects/luminous/image4.jpg",
+          "link": "/details/subtle-gaze",
+          "price": "$100"
+        },
+        {
+          "id": "celestial-hue",
+          "name": "Celestial Hue",
+          "image": "/images/projects/luminous/image6.jpg",
+          "link": "/details/celestial-hue",
+          "price": "$100"
+        }
+      ]
+    },
+    {
+      "id": "dream-in-violet",
+      "name": "Dream in Violet",
+      "price": "$100",
+      "description": "An enchanting vision of violet hues and moody ambiance.",
+      "mainImage": "/images/projects/luminous/image3.jpg",
+      "additionalImages": [
+        "/images/projects/luminous/image1.jpg",
+        "/images/projects/luminous/image2.jpg",
+        "/images/projects/luminous/image4.jpg",
+        "/images/projects/luminous/image7.jpg"
+      ],
+      "relatedItems": [
+        {
+          "id": "veil-of-color",
+          "name": "Veil of Color",
+          "image": "/images/projects/luminous/image1.jpg",
+          "link": "/details/veil-of-color",
+          "price": "$100"
+        },
+        {
+          "id": "glimmer-of-reflection",
+          "name": "Glimmer of Reflection",
+          "image": "/images/projects/luminous/image2.jpg",
+          "link": "/details/glimmer-of-reflection",
+          "price": "$100"
+        },
+        {
+          "id": "subtle-gaze",
+          "name": "Subtle Gaze",
+          "image": "/images/projects/luminous/image4.jpg",
+          "link": "/details/subtle-gaze",
+          "price": "$100"
+        },
+        {
+          "id": "a-quiet-radiance",
+          "name": "A Quiet Radiance",
+          "image": "/images/projects/luminous/image7.jpg",
+          "link": "/details/a-quiet-radiance",
+          "price": "$100"
+        }
+      ]
+    },
+    {
+      "id": "subtle-gaze",
+      "name": "Subtle Gaze",
+      "price": "$100",
+      "description": "A contemplative look captured in the midst of shimmering lights.",
+      "mainImage": "/images/projects/luminous/image4.jpg",
+      "additionalImages": [
+        "/images/projects/luminous/image1.jpg",
+        "/images/projects/luminous/image3.jpg",
+        "/images/projects/luminous/image5.jpg",
+        "/images/projects/luminous/image8.jpg"
+      ],
+      "relatedItems": [
+        {
+          "id": "veil-of-color",
+          "name": "Veil of Color",
+          "image": "/images/projects/luminous/image1.jpg",
+          "link": "/details/veil-of-color",
+          "price": "$100"
+        },
+        {
+          "id": "dream-in-violet",
+          "name": "Dream in Violet",
+          "image": "/images/projects/luminous/image3.jpg",
+          "link": "/details/dream-in-violet",
+          "price": "$100"
+        },
+        {
+          "id": "shimmering-nostalgia",
+          "name": "Shimmering Nostalgia",
+          "image": "/images/projects/luminous/image5.jpg",
+          "link": "/details/shimmering-nostalgia",
+          "price": "$100"
+        },
+        {
+          "id": "candid-glow",
+          "name": "Candid Glow",
+          "image": "/images/projects/luminous/image8.jpg",
+          "link": "/details/candid-glow",
+          "price": "$100"
+        }
+      ]
+    },
+    {
+      "id": "shimmering-nostalgia",
+      "name": "Shimmering Nostalgia",
+      "price": "$100",
+      "description": "A nostalgic embrace of shimmering lights and deep colors.",
+      "mainImage": "/images/projects/luminous/image5.jpg",
+      "additionalImages": [
+        "/images/projects/luminous/image1.jpg",
+        "/images/projects/luminous/image4.jpg",
+        "/images/projects/luminous/image6.jpg",
+        "/images/projects/luminous/image7.jpg"
+      ],
+      "relatedItems": [
+        {
+          "id": "veil-of-color",
+          "name": "Veil of Color",
+          "image": "/images/projects/luminous/image1.jpg",
+          "link": "/details/veil-of-color",
+          "price": "$100"
+        },
+        {
+          "id": "subtle-gaze",
+          "name": "Subtle Gaze",
+          "image": "/images/projects/luminous/image4.jpg",
+          "link": "/details/subtle-gaze",
+          "price": "$100"
+        },
+        {
+          "id": "celestial-hue",
+          "name": "Celestial Hue",
+          "image": "/images/projects/luminous/image6.jpg",
+          "link": "/details/celestial-hue",
+          "price": "$100"
+        },
+        {
+          "id": "a-quiet-radiance",
+          "name": "A Quiet Radiance",
+          "image": "/images/projects/luminous/image7.jpg",
+          "link": "/details/a-quiet-radiance",
+          "price": "$100"
+        }
+      ]
+    },
+    {
+      "id": "celestial-hue",
+      "name": "Celestial Hue",
+      "price": "$100",
+      "description": "A heavenly interplay of lights and celestial tones.",
+      "mainImage": "/images/projects/luminous/image6.jpg",
+      "additionalImages": [
+        "/images/projects/luminous/image2.jpg",
+        "/images/projects/luminous/image4.jpg",
+        "/images/projects/luminous/image5.jpg",
+        "/images/projects/luminous/image8.jpg"
+      ],
+      "relatedItems": [
+        {
+          "id": "glimmer-of-reflection",
+          "name": "Glimmer of Reflection",
+          "image": "/images/projects/luminous/image2.jpg",
+          "link": "/details/glimmer-of-reflection",
+          "price": "$100"
+        },
+        {
+          "id": "subtle-gaze",
+          "name": "Subtle Gaze",
+          "image": "/images/projects/luminous/image4.jpg",
+          "link": "/details/subtle-gaze",
+          "price": "$100"
+        },
+        {
+          "id": "shimmering-nostalgia",
+          "name": "Shimmering Nostalgia",
+          "image": "/images/projects/luminous/image5.jpg",
+          "link": "/details/shimmering-nostalgia",
+          "price": "$100"
+        },
+        {
+          "id": "candid-glow",
+          "name": "Candid Glow",
+          "image": "/images/projects/luminous/image8.jpg",
+          "link": "/details/candid-glow",
+          "price": "$100"
+        }
+      ]
+    },
+    {
+      "id": "a-quiet-radiance",
+      "name": "A Quiet Radiance",
+      "price": "$100",
+      "description": "Subtle yet striking, radiating elegance through soft light.",
+      "mainImage": "/images/projects/luminous/image7.jpg",
+      "additionalImages": [
+        "/images/projects/luminous/image3.jpg",
+        "/images/projects/luminous/image5.jpg",
+        "/images/projects/luminous/image6.jpg",
+        "/images/projects/luminous/image9.jpg"
+      ],
+      "relatedItems": [
+        {
+          "id": "dream-in-violet",
+          "name": "Dream in Violet",
+          "image": "/images/projects/luminous/image3.jpg",
+          "link": "/details/dream-in-violet",
+          "price": "$100"
+        },
+        {
+          "id": "shimmering-nostalgia",
+          "name": "Shimmering Nostalgia",
+          "image": "/images/projects/luminous/image5.jpg",
+          "link": "/details/shimmering-nostalgia",
+          "price": "$100"
+        },
+        {
+          "id": "celestial-hue",
+          "name": "Celestial Hue",
+          "image": "/images/projects/luminous/image6.jpg",
+          "link": "/details/celestial-hue",
+          "price": "$100"
+        },
+        {
+          "id": "in-the-soft-light",
+          "name": "In the Soft Light",
+          "image": "/images/projects/luminous/image9.jpg",
+          "link": "/details/in-the-soft-light",
+          "price": "$100"
+        }
+      ]
+    },
+    {
+      "id": "candid-glow",
+      "name": "Candid Glow",
+      "price": "$100",
+      "description": "A playful and candid moment bathed in glowing light.",
+      "mainImage": "/images/projects/luminous/image8.jpg",
+      "additionalImages": [
+        "/images/projects/luminous/image1.jpg",
+        "/images/projects/luminous/image3.jpg",
+        "/images/projects/luminous/image6.jpg",
+        "/images/projects/luminous/image9.jpg"
+      ],
+      "relatedItems": [
+        {
+          "id": "veil-of-color",
+          "name": "Veil of Color",
+          "image": "/images/projects/luminous/image1.jpg",
+          "link": "/details/veil-of-color",
+          "price": "$100"
+        },
+        {
+          "id": "dream-in-violet",
+          "name": "Dream in Violet",
+          "image": "/images/projects/luminous/image3.jpg",
+          "link": "/details/dream-in-violet",
+          "price": "$100"
+        },
+        {
+          "id": "celestial-hue",
+          "name": "Celestial Hue",
+          "image": "/images/projects/luminous/image6.jpg",
+          "link": "/details/celestial-hue",
+          "price": "$100"
+        },
+        {
+          "id": "in-the-soft-light",
+          "name": "In the Soft Light",
+          "image": "/images/projects/luminous/image9.jpg",
+          "link": "/details/in-the-soft-light",
+          "price": "$100"
+        }
+      ]
+    },
+    {
+      "id": "in-the-soft-light",
+      "name": "In the Soft Light",
+      "price": "$100",
+      "description": "A tranquil and intimate moment illuminated by soft glowing light.",
+      "mainImage": "/images/projects/luminous/image9.jpg",
+      "additionalImages": [
+        "/images/projects/luminous/image4.jpg",
+        "/images/projects/luminous/image6.jpg",
+        "/images/projects/luminous/image7.jpg",
+        "/images/projects/luminous/image10.jpg"
+      ],
+      "relatedItems": [
+        {
+          "id": "subtle-gaze",
+          "name": "Subtle Gaze",
+          "image": "/images/projects/luminous/image4.jpg",
+          "link": "/details/subtle-gaze",
+          "price": "$100"
+        },
+        {
+          "id": "celestial-hue",
+          "name": "Celestial Hue",
+          "image": "/images/projects/luminous/image6.jpg",
+          "link": "/details/celestial-hue",
+          "price": "$100"
+        },
+        {
+          "id": "a-quiet-radiance",
+          "name": "A Quiet Radiance",
+          "image": "/images/projects/luminous/image7.jpg",
+          "link": "/details/a-quiet-radiance",
+          "price": "$100"
+        },
+        {
+          "id": "chasing-luminescence",
+          "name": "Chasing Luminescence",
+          "image": "/images/projects/luminous/image10.jpg",
+          "link": "/details/chasing-luminescence",
+          "price": "$100"
+        }
+      ]
+    },
+    {
+      "id": "chasing-luminescence",
+      "name": "Chasing Luminescence",
+      "price": "$100",
+      "description": "An energetic and vibrant capture of fleeting luminous moments.",
+      "mainImage": "/images/projects/luminous/image10.jpg",
+      "additionalImages": [
+        "/images/projects/luminous/image2.jpg",
+        "/images/projects/luminous/image8.jpg",
+        "/images/projects/luminous/image9.jpg",
+        "/images/projects/luminous/image11.jpg"
+      ],
+      "relatedItems": [
+        {
+          "id": "glimmer-of-reflection",
+          "name": "Glimmer of Reflection",
+          "image": "/images/projects/luminous/image2.jpg",
+          "link": "/details/glimmer-of-reflection",
+          "price": "$100"
+        },
+        {
+          "id": "candid-glow",
+          "name": "Candid Glow",
+          "image": "/images/projects/luminous/image8.jpg",
+          "link": "/details/candid-glow",
+          "price": "$100"
+        },
+        {
+          "id": "in-the-soft-light",
+          "name": "In the Soft Light",
+          "image": "/images/projects/luminous/image9.jpg",
+          "link": "/details/in-the-soft-light",
+          "price": "$100"
+        },
+        {
+          "id": "evening-hues",
+          "name": "Evening Hues",
+          "image": "/images/projects/luminous/image11.jpg",
+          "link": "/details/evening-hues",
+          "price": "$100"
+        }
+      ]
+    },
+    {
+      "id": "evening-hues",
+      "name": "Evening Hues",
+      "price": "$100",
+      "description": "A rich and moody palette of hues captured during twilight.",
+      "mainImage": "/images/projects/luminous/image11.jpg",
+      "additionalImages": [
+        "/images/projects/luminous/image5.jpg",
+        "/images/projects/luminous/image7.jpg",
+        "/images/projects/luminous/image9.jpg",
+        "/images/projects/luminous/image12.jpg"
+      ],
+      "relatedItems": [
+        {
+          "id": "shimmering-nostalgia",
+          "name": "Shimmering Nostalgia",
+          "image": "/images/projects/luminous/image5.jpg",
+          "link": "/details/shimmering-nostalgia",
+          "price": "$100"
+        },
+        {
+          "id": "a-quiet-radiance",
+          "name": "A Quiet Radiance",
+          "image": "/images/projects/luminous/image7.jpg",
+          "link": "/details/a-quiet-radiance",
+          "price": "$100"
+        },
+        {
+          "id": "in-the-soft-light",
+          "name": "In the Soft Light",
+          "image": "/images/projects/luminous/image9.jpg",
+          "link": "/details/in-the-soft-light",
+          "price": "$100"
+        },
+        {
+          "id": "muted-glow",
+          "name": "Muted Glow",
+          "image": "/images/projects/luminous/image12.jpg",
+          "link": "/details/muted-glow",
+          "price": "$100"
+        }
+      ]
+    },
+    {
+      "id": "muted-glow",
+      "name": "Muted Glow",
+      "price": "$100",
+      "description": "A soft and muted glow highlighting subtle textures and tones.",
+      "mainImage": "/images/projects/luminous/image12.jpg",
+      "additionalImages": [
+        "/images/projects/luminous/image6.jpg",
+        "/images/projects/luminous/image8.jpg",
+        "/images/projects/luminous/image10.jpg",
+        "/images/projects/luminous/image11.jpg"
+      ],
+      "relatedItems": [
+        {
+          "id": "celestial-hue",
+          "name": "Celestial Hue",
+          "image": "/images/projects/luminous/image6.jpg",
+          "link": "/details/celestial-hue",
+          "price": "$100"
+        },
+        {
+          "id": "candid-glow",
+          "name": "Candid Glow",
+          "image": "/images/projects/luminous/image8.jpg",
+          "link": "/details/candid-glow",
+          "price": "$100"
+        },
+        {
+          "id": "chasing-luminescence",
+          "name": "Chasing Luminescence",
+          "image": "/images/projects/luminous/image10.jpg",
+          "link": "/details/chasing-luminescence",
+          "price": "$100"
+        },
+        {
+          "id": "evening-hues",
+          "name": "Evening Hues",
+          "image": "/images/projects/luminous/image11.jpg",
+          "link": "/details/evening-hues",
+          "price": "$100"
+        }
+      ]
+    }
+  ]
+}

@@ -8,6 +8,7 @@
     {
       "id": 1,
       "title": "Concrete Canvas",
+      "slug": "concrete",
       "image": "concrete/stairs1.JPG",
       "description": "Capturing intimate, spontaneous shots.",
       "link": "/projects/concrete"
@@ -15,6 +16,7 @@
     {
       "id": 2,
       "title": "Luminous",
+      "slug": "luminous",
       "image": "luminous/brooke1.JPG",
       "description": "A bold and moody urban photoshoot.",
       "link": "/projects/luminous"
@@ -22,6 +24,7 @@
     {
       "id": 3,
       "title": "Italian Summer",
+      "slug": "italy",
       "image": "italy/yellow1.JPG",
       "description": "An ethereal series with moody lighting.",
       "link": "/projects/italian"
@@ -29,6 +32,7 @@
     {
       "id": 4,
       "title": "Moments of Mirth",
+      "slug": "moments",
       "image": "moments/dreamy.JPG",
       "description": "An ethereal series with moody lighting.",
       "link": "/projects/moments"

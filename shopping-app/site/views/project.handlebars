@@ -1,0 +1,28 @@
+<div class="project-container">
+  <div class="project-banner">
+    <div class="project-title">
+      <h1>{{project.name}}</h1>
+    </div>
+    <img
+      src="/{{project.bannerImage}}"
+      alt="{{project.name}}"
+      class="banner-image"
+    />
+  </div>
+  <div class="project-items">
+    {{#each project.items}}
+      <div class="project-item">
+        <img
+          src="/{{this.image}}"
+          alt="{{this.title}}"
+          class="project-item-image"
+        />
+        <div class="project-item-details">
+          <h2 class="project-item-title">{{this.title}}</h2>
+          <p class="project-item-price">{{this.price}}</p>
+          <a href="{{this.link}}" class="project-item-link">View Details</a>
+        </div>
+      </div>
+    {{/each}}
+  </div>
+</div>

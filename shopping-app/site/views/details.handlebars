@@ -1,0 +1,35 @@
+<div class="details-page">
+  <div class="main-item">
+    <!-- Wrap the main image and sub-images together -->
+    <div class="image-container">
+      <img src="{{mainImage}}" alt="{{title}}" class="main-item-image" />
+      <div class="sub-images">
+        {{#each additionalImages}}
+          <img src="{{this}}" alt="Sub-image of {{../title}}" class="sub-image" />
+        {{/each}}
+      </div>
+    </div>
+    <div class="item-details">
+      <h1 class="item-title">{{title}}</h1>
+      <p class="item-price">{{price}}</p>
+      <p class="item-description">{{description}}</p>
+      <form action="/cart/add" method="POST">
+  <input type="hidden" name="title" value="{{title}}" />
+  <input type="hidden" name="price" value="{{price}}" />
+  <input type="hidden" name="image" value="{{mainImage}}" />
+  <button type="submit" class="add-to-cart-button">Add to Cart</button>
+</form>
+    </div>
+  </div>
+  <div class="related-items">
+    <h2>Related Items</h2>
+    <div class="related-items-grid">
+      {{#each relatedItems}}
+        <div class="related-item">
+          <img src="{{image}}" alt="{{name}}" class="related-item-image" />
+          <a href="{{link}}" class="related-item-link">{{name}}</a>
+        </div>
+      {{/each}}
+    </div>
+  </div>
+</div>
